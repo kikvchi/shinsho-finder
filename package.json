@@ -1,0 +1,23 @@
+{
+  "name": "shinsho-finder",
+  "version": "1.0.0",
+  "description": "Daily RSS feed for new Japanese shinsho (新書) books using openBD API",
+  "main": "src/main.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "openbd",
+    "rss",
+    "shinsho",
+    "books",
+    "japanese"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "rss": "^1.2.2"
+  }
+}
