@@ -10,7 +10,7 @@ export async function fetchDetails(isbns) {
   }
 
   const url = 'https://api.openbd.jp/v1/get';
-  const batchSize = 10000; // API limit
+  const batchSize = 100; // URL length limit for GET requests
   const allBooks = [];
 
   try {
@@ -34,6 +34,11 @@ export async function fetchDetails(isbns) {
       allBooks.push(...validBooks);
 
       console.log(`✓ Received ${validBooks.length} valid book entries`);
+
+      // Add delay between requests to avoid overwhelming the API
+      if (i + batchSize < isbns.length) {
+        await new Promise(resolve => setTimeout(resolve, 100)); // 100ms delay
+      }
     }
 
     return allBooks;
