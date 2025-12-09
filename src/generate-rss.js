@@ -8,8 +8,8 @@ import fs from 'fs/promises';
  */
 export async function generateRSS(shinshoBooks, outputPath) {
   const feed = new RSS({
-    title: '新書新刊情報 | Shinsho Finder',
-    description: 'openBD APIを使用した新書（Cコード: Cx2xx）の新刊情報フィード',
+    title: '新書ファインダー',
+    description: 'openBD APIを使用した新書の新刊情報フィード',
     feed_url: 'https://analekt.github.io/shinsho-finder/index.xml',
     site_url: 'https://analekt.github.io/shinsho-finder/',
     language: 'ja',
