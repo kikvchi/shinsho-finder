@@ -4,10 +4,106 @@
         <description><![CDATA[openBD APIを使用した新書（Cコード: Cx2xx）の新刊情報フィード]]></description>
         <link>https://analekt.github.io/shinsho-finder/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 09 Dec 2025 00:09:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Dec 2025 00:09:57 GMT</lastBuildDate>
         <atom:link href="https://analekt.github.io/shinsho-finder/index.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 09 Dec 2025 00:09:31 GMT</pubDate>
+        <pubDate>Wed, 10 Dec 2025 00:09:57 GMT</pubDate>
         <language><![CDATA[ja]]></language>
         <ttl>1440</ttl>
+        <item>
+            <title><![CDATA[なぜ「地方女子」は呪縛になるのか]]></title>
+            <description><![CDATA[<p><strong>著者:</strong> 寺町 晋哉</p>
+<p><strong>出版社:</strong> 集英社</p>
+<p><strong>シリーズ:</strong> 集英社新書</p>
+<p><strong>ISBN:</strong> 9784087213942</p>
+<p><strong>発売日:</strong> N/A</p>
+<div style="clear: both;"></div>]]></description>
+            <link>https://openbd.jp/get?isbn=9784087213942</link>
+            <guid isPermaLink="false">9784087213942</guid>
+            <pubDate>Wed, 10 Dec 2025 00:09:57 GMT</pubDate>
+            <isbn>9784087213942</isbn>
+            <series>集英社新書</series>
+            <author>寺町 晋哉</author>
+            <publisher>集英社</publisher>
+        </item>
+        <item>
+            <title><![CDATA[筑紫哲也と自由の森大学 「文化によるまちおこし」に挑んだ人々]]></title>
+            <description><![CDATA[<p><strong>著者:</strong> 藤原 賢吾</p>
+<p><strong>出版社:</strong> 集英社</p>
+<p><strong>シリーズ:</strong> 集英社新書</p>
+<p><strong>ISBN:</strong> 9784087213959</p>
+<p><strong>発売日:</strong> N/A</p>
+<div style="clear: both;"></div>]]></description>
+            <link>https://openbd.jp/get?isbn=9784087213959</link>
+            <guid isPermaLink="false">9784087213959</guid>
+            <pubDate>Wed, 10 Dec 2025 00:09:57 GMT</pubDate>
+            <isbn>9784087213959</isbn>
+            <series>集英社新書</series>
+            <author>藤原 賢吾</author>
+            <publisher>集英社</publisher>
+        </item>
+        <item>
+            <title><![CDATA[森永卓郎の戦争と平和講座]]></title>
+            <description><![CDATA[<p><strong>著者:</strong> 森永 卓郎</p>
+<p><strong>出版社:</strong> 集英社</p>
+<p><strong>シリーズ:</strong> 集英社新書</p>
+<p><strong>ISBN:</strong> 9784087213966</p>
+<p><strong>発売日:</strong> N/A</p>
+<div style="clear: both;"></div>]]></description>
+            <link>https://openbd.jp/get?isbn=9784087213966</link>
+            <guid isPermaLink="false">9784087213966</guid>
+            <pubDate>Wed, 10 Dec 2025 00:09:57 GMT</pubDate>
+            <isbn>9784087213966</isbn>
+            <series>集英社新書</series>
+            <author>森永 卓郎</author>
+            <publisher>集英社</publisher>
+        </item>
+        <item>
+            <title><![CDATA[朝鮮の王朝外交 ”ややこしさ”からの気づき]]></title>
+            <description><![CDATA[<p><strong>著者:</strong> 森平 雅彦</p>
+<p><strong>出版社:</strong> 集英社</p>
+<p><strong>シリーズ:</strong> 集英社新書</p>
+<p><strong>ISBN:</strong> 9784087213973</p>
+<p><strong>発売日:</strong> N/A</p>
+<div style="clear: both;"></div>]]></description>
+            <link>https://openbd.jp/get?isbn=9784087213973</link>
+            <guid isPermaLink="false">9784087213973</guid>
+            <pubDate>Wed, 10 Dec 2025 00:09:57 GMT</pubDate>
+            <isbn>9784087213973</isbn>
+            <series>集英社新書</series>
+            <author>森平 雅彦</author>
+            <publisher>集英社</publisher>
+        </item>
+        <item>
+            <title><![CDATA[「推し」という病]]></title>
+            <description><![CDATA[<p><strong>著者:</strong> 加山 竜司</p>
+<p><strong>出版社:</strong> 文藝春秋</p>
+<p><strong>シリーズ:</strong> 文春新書</p>
+<p><strong>ISBN:</strong> 9784166615193</p>
+<p><strong>発売日:</strong> N/A</p>
+<div style="clear: both;"></div>]]></description>
+            <link>https://openbd.jp/get?isbn=9784166615193</link>
+            <guid isPermaLink="false">9784166615193</guid>
+            <pubDate>Wed, 10 Dec 2025 00:09:57 GMT</pubDate>
+            <isbn>9784166615193</isbn>
+            <series>文春新書</series>
+            <author>加山 竜司</author>
+            <publisher>文藝春秋</publisher>
+        </item>
+        <item>
+            <title><![CDATA[林陵平のサッカー観戦術 2 : 試合がもっともっと面白くなる極意]]></title>
+            <description><![CDATA[<p><strong>著者:</strong> 林　陵平</p>
+<p><strong>出版社:</strong> 平凡社</p>
+<p><strong>シリーズ:</strong> 平凡社新書</p>
+<p><strong>ISBN:</strong> 9784582860993</p>
+<p><strong>発売日:</strong> N/A</p>
+<div style="clear: both;"></div>]]></description>
+            <link>https://openbd.jp/get?isbn=9784582860993</link>
+            <guid isPermaLink="false">9784582860993</guid>
+            <pubDate>Wed, 10 Dec 2025 00:09:57 GMT</pubDate>
+            <isbn>9784582860993</isbn>
+            <series>平凡社新書</series>
+            <author>林　陵平</author>
+            <publisher>平凡社</publisher>
+        </item>
     </channel>
 </rss>
