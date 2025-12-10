@@ -12,7 +12,7 @@ openBD APIを使用して、日本の新書の新刊情報を自動収集し、R
 ## RSSフィードURL
 
 ```text
-https://analekt.github.io/shinsho-finder/index.xml
+https://analekt.github.io/shinsho/index.xml
 ```
 
 お好みのRSSリーダーに登録してご利用ください。
