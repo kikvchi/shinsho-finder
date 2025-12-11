@@ -10,8 +10,8 @@ export async function generateRSS(shinshoBooks, outputPath) {
   const feed = new RSS({
     title: '新書ファインダー',
     description: 'openBD APIを使用した新書の新刊情報フィード',
-    feed_url: 'https://analekt.github.io/shinsho/index.xml',
-    site_url: 'https://analekt.github.io/shinsho/',
+    feed_url: 'https://analekt.github.io/shinsho-finder/index.xml',
+    site_url: 'https://analekt.github.io/shinsho-finder/',
     language: 'ja',
     pubDate: new Date(),
     ttl: 1440, // 24 hours
