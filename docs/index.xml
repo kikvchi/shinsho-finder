@@ -1,14 +1,524 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[新書新刊情報 | Shinsho Finder]]></title>
-        <description><![CDATA[openBD APIを使用した新書（Cコード: Cx2xx）の新刊情報フィード]]></description>
-        <link>https://analekt.github.io/shinsho-finder/</link>
+        <title><![CDATA[新書ファインダー]]></title>
+        <description><![CDATA[openBD APIを使用した新書の新刊情報フィード]]></description>
+        <link>https://analekt.github.io/shinsho/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 10 Dec 2025 00:09:57 GMT</lastBuildDate>
-        <atom:link href="https://analekt.github.io/shinsho-finder/index.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 10 Dec 2025 00:09:57 GMT</pubDate>
+        <lastBuildDate>Thu, 11 Dec 2025 00:10:07 GMT</lastBuildDate>
+        <atom:link href="https://analekt.github.io/shinsho/index.xml" rel="self" type="application/rss+xml"/>
+        <pubDate>Thu, 11 Dec 2025 00:10:07 GMT</pubDate>
         <language><![CDATA[ja]]></language>
         <ttl>1440</ttl>
+        <item>
+            <title><![CDATA[フードテックで変わる食の未来]]></title>
+            <description><![CDATA[<p><strong>著者:</strong> 田中, 宏隆</p>
+<p><strong>出版社:</strong> PHP研究所</p>
+<p><strong>シリーズ:</strong> PHP新書</p>
+<p><strong>ISBN:</strong> 9784569857794</p>
+<p><strong>発売日:</strong> N/A</p>
+<div style="clear: both;"></div>]]></description>
+            <link>https://www.amazon.co.jp/dp/4569857795/</link>
+            <guid isPermaLink="false">9784569857794</guid>
+            <pubDate>Thu, 11 Dec 2025 00:10:06 GMT</pubDate>
+            <isbn>9784569857794</isbn>
+            <isbn10>4569857795</isbn10>
+            <series>PHP新書</series>
+            <author>田中, 宏隆</author>
+            <publisher>PHP研究所</publisher>
+        </item>
+        <item>
+            <title><![CDATA[大阪弁の深み : その独特の魅力を味わう]]></title>
+            <description><![CDATA[<p><strong>著者:</strong> 札埜, 和男, 1962-</p>
+<p><strong>出版社:</strong> PHP研究所</p>
+<p><strong>シリーズ:</strong> PHP新書</p>
+<p><strong>ISBN:</strong> 9784569859095</p>
+<p><strong>発売日:</strong> N/A</p>
+<div style="clear: both;"></div>]]></description>
+            <link>https://www.amazon.co.jp/dp/4569859097/</link>
+            <guid isPermaLink="false">9784569859095</guid>
+            <pubDate>Thu, 11 Dec 2025 00:10:06 GMT</pubDate>
+            <isbn>9784569859095</isbn>
+            <isbn10>4569859097</isbn10>
+            <series>PHP新書</series>
+            <author>札埜, 和男, 1962-</author>
+            <publisher>PHP研究所</publisher>
+        </item>
+        <item>
+            <title><![CDATA[マウントを取らずにはいられない人]]></title>
+            <description><![CDATA[<p><strong>著者:</strong> 片田, 珠美, 1961-</p>
+<p><strong>出版社:</strong> PHP研究所</p>
+<p><strong>シリーズ:</strong> PHP新書</p>
+<p><strong>ISBN:</strong> 9784569859293</p>
+<p><strong>発売日:</strong> N/A</p>
+<div style="clear: both;"></div>]]></description>
+            <link>https://www.amazon.co.jp/dp/4569859291/</link>
+            <guid isPermaLink="false">9784569859293</guid>
+            <pubDate>Thu, 11 Dec 2025 00:10:06 GMT</pubDate>
+            <isbn>9784569859293</isbn>
+            <isbn10>4569859291</isbn10>
+            <series>PHP新書</series>
+            <author>片田, 珠美, 1961-</author>
+            <publisher>PHP研究所</publisher>
+        </item>
+        <item>
+            <title><![CDATA[なぜゲームをすると頭が良くなるのか]]></title>
+            <description><![CDATA[<p><strong>著者:</strong> 星, 友啓, 1977-</p>
+<p><strong>出版社:</strong> PHP研究所</p>
+<p><strong>シリーズ:</strong> PHP新書</p>
+<p><strong>ISBN:</strong> 9784569859330</p>
+<p><strong>発売日:</strong> N/A</p>
+<div style="clear: both;"></div>]]></description>
+            <link>https://www.amazon.co.jp/dp/456985933X/</link>
+            <guid isPermaLink="false">9784569859330</guid>
+            <pubDate>Thu, 11 Dec 2025 00:10:06 GMT</pubDate>
+            <isbn>9784569859330</isbn>
+            <isbn10>456985933X</isbn10>
+            <series>PHP新書</series>
+            <author>星, 友啓, 1977-</author>
+            <publisher>PHP研究所</publisher>
+        </item>
+        <item>
+            <title><![CDATA[美しく残酷なヒトの本性 : 遺伝子、言語、自意識の謎に迫る]]></title>
+            <description><![CDATA[<p><strong>著者:</strong> 長谷川, 真理子, 1952-</p>
+<p><strong>出版社:</strong> PHP研究所</p>
+<p><strong>シリーズ:</strong> PHP新書</p>
+<p><strong>ISBN:</strong> 9784569859415</p>
+<p><strong>発売日:</strong> N/A</p>
+<div style="clear: both;"></div>]]></description>
+            <link>https://www.amazon.co.jp/dp/4569859410/</link>
+            <guid isPermaLink="false">9784569859415</guid>
+            <pubDate>Thu, 11 Dec 2025 00:10:06 GMT</pubDate>
+            <isbn>9784569859415</isbn>
+            <isbn10>4569859410</isbn10>
+            <series>PHP新書</series>
+            <author>長谷川, 真理子, 1952-</author>
+            <publisher>PHP研究所</publisher>
+        </item>
+        <item>
+            <title><![CDATA[職場の対話はなぜすれ違うのか]]></title>
+            <description><![CDATA[<p><strong>著者:</strong> 小林祐児</p>
+<p><strong>出版社:</strong> 光文社</p>
+<p><strong>シリーズ:</strong> 光文社新書</p>
+<p><strong>ISBN:</strong> 9784334108458</p>
+<p><strong>発売日:</strong> N/A</p>
+<div style="clear: both;"></div>]]></description>
+            <link>https://www.amazon.co.jp/dp/4334108458/</link>
+            <guid isPermaLink="false">9784334108458</guid>
+            <pubDate>Thu, 11 Dec 2025 00:10:06 GMT</pubDate>
+            <isbn>9784334108458</isbn>
+            <isbn10>4334108458</isbn10>
+            <series>光文社新書</series>
+            <author>小林祐児</author>
+            <publisher>光文社</publisher>
+        </item>
+        <item>
+            <title><![CDATA[怒っている子どもはほんとうは悲しい : 「感情リテラシー」をはぐくむ]]></title>
+            <description><![CDATA[<p><strong>著者:</strong> 渡辺弥生</p>
+<p><strong>出版社:</strong> 光文社</p>
+<p><strong>シリーズ:</strong> 光文社新書</p>
+<p><strong>ISBN:</strong> 9784334108465</p>
+<p><strong>発売日:</strong> N/A</p>
+<div style="clear: both;"></div>]]></description>
+            <link>https://www.amazon.co.jp/dp/4334108466/</link>
+            <guid isPermaLink="false">9784334108465</guid>
+            <pubDate>Thu, 11 Dec 2025 00:10:06 GMT</pubDate>
+            <isbn>9784334108465</isbn>
+            <isbn10>4334108466</isbn10>
+            <series>光文社新書</series>
+            <author>渡辺弥生</author>
+            <publisher>光文社</publisher>
+        </item>
+        <item>
+            <title><![CDATA[やっぱり人生を支えてくれる宗教の言葉 : 二〇〇〇年の叡智から私が学んできたこと]]></title>
+            <description><![CDATA[<p><strong>著者:</strong> 横道誠</p>
+<p><strong>出版社:</strong> 光文社</p>
+<p><strong>シリーズ:</strong> 光文社新書</p>
+<p><strong>ISBN:</strong> 9784334108472</p>
+<p><strong>発売日:</strong> N/A</p>
+<div style="clear: both;"></div>]]></description>
+            <link>https://www.amazon.co.jp/dp/4334108474/</link>
+            <guid isPermaLink="false">9784334108472</guid>
+            <pubDate>Thu, 11 Dec 2025 00:10:06 GMT</pubDate>
+            <isbn>9784334108472</isbn>
+            <isbn10>4334108474</isbn10>
+            <series>光文社新書</series>
+            <author>横道誠</author>
+            <publisher>光文社</publisher>
+        </item>
+        <item>
+            <title><![CDATA[三島由紀夫を誰も知らない]]></title>
+            <description><![CDATA[<p><strong>著者:</strong> 井上隆史</p>
+<p><strong>出版社:</strong> 光文社</p>
+<p><strong>シリーズ:</strong> 光文社新書</p>
+<p><strong>ISBN:</strong> 9784334108489</p>
+<p><strong>発売日:</strong> N/A</p>
+<div style="clear: both;"></div>]]></description>
+            <link>https://www.amazon.co.jp/dp/4334108482/</link>
+            <guid isPermaLink="false">9784334108489</guid>
+            <pubDate>Thu, 11 Dec 2025 00:10:06 GMT</pubDate>
+            <isbn>9784334108489</isbn>
+            <isbn10>4334108482</isbn10>
+            <series>光文社新書</series>
+            <author>井上隆史</author>
+            <publisher>光文社</publisher>
+        </item>
+        <item>
+            <title><![CDATA[お金持ちはなぜ不幸になるのか]]></title>
+            <description><![CDATA[<p><strong>著者:</strong> 阿部, 恭子, NPO法人理事長</p>
+<p><strong>出版社:</strong> 幻冬舎</p>
+<p><strong>シリーズ:</strong> 幻冬舎新書</p>
+<p><strong>ISBN:</strong> 9784344987906</p>
+<p><strong>発売日:</strong> N/A</p>
+<div style="clear: both;"></div>]]></description>
+            <link>https://www.amazon.co.jp/dp/434498790X/</link>
+            <guid isPermaLink="false">9784344987906</guid>
+            <pubDate>Thu, 11 Dec 2025 00:10:06 GMT</pubDate>
+            <isbn>9784344987906</isbn>
+            <isbn10>434498790X</isbn10>
+            <series>幻冬舎新書</series>
+            <author>阿部, 恭子, NPO法人理事長</author>
+            <publisher>幻冬舎</publisher>
+        </item>
+        <item>
+            <title><![CDATA[真説豊臣兄弟とその一族]]></title>
+            <description><![CDATA[<p><strong>著者:</strong> 呉座, 勇一</p>
+<p><strong>出版社:</strong> 幻冬舎</p>
+<p><strong>シリーズ:</strong> 幻冬舎新書</p>
+<p><strong>ISBN:</strong> 9784344987913</p>
+<p><strong>発売日:</strong> N/A</p>
+<div style="clear: both;"></div>]]></description>
+            <link>https://www.amazon.co.jp/dp/4344987918/</link>
+            <guid isPermaLink="false">9784344987913</guid>
+            <pubDate>Thu, 11 Dec 2025 00:10:06 GMT</pubDate>
+            <isbn>9784344987913</isbn>
+            <isbn10>4344987918</isbn10>
+            <series>幻冬舎新書</series>
+            <author>呉座, 勇一</author>
+            <publisher>幻冬舎</publisher>
+        </item>
+        <item>
+            <title><![CDATA[無縁仏でいい、という選択 : 墓も、墓じまいも、遺骨も要らない]]></title>
+            <description><![CDATA[<p><strong>著者:</strong> 島田, 裕巳</p>
+<p><strong>出版社:</strong> 幻冬舎</p>
+<p><strong>シリーズ:</strong> 幻冬舎新書</p>
+<p><strong>ISBN:</strong> 9784344987920</p>
+<p><strong>発売日:</strong> N/A</p>
+<div style="clear: both;"></div>]]></description>
+            <link>https://www.amazon.co.jp/dp/4344987926/</link>
+            <guid isPermaLink="false">9784344987920</guid>
+            <pubDate>Thu, 11 Dec 2025 00:10:06 GMT</pubDate>
+            <isbn>9784344987920</isbn>
+            <isbn10>4344987926</isbn10>
+            <series>幻冬舎新書</series>
+            <author>島田, 裕巳</author>
+            <publisher>幻冬舎</publisher>
+        </item>
+        <item>
+            <title><![CDATA[棺桶まで歩こう]]></title>
+            <description><![CDATA[<p><strong>著者:</strong> 萬田, 緑平</p>
+<p><strong>出版社:</strong> 幻冬舎</p>
+<p><strong>シリーズ:</strong> 幻冬舎新書</p>
+<p><strong>ISBN:</strong> 9784344987937</p>
+<p><strong>発売日:</strong> N/A</p>
+<div style="clear: both;"></div>]]></description>
+            <link>https://www.amazon.co.jp/dp/4344987934/</link>
+            <guid isPermaLink="false">9784344987937</guid>
+            <pubDate>Thu, 11 Dec 2025 00:10:06 GMT</pubDate>
+            <isbn>9784344987937</isbn>
+            <isbn10>4344987934</isbn10>
+            <series>幻冬舎新書</series>
+            <author>萬田, 緑平</author>
+            <publisher>幻冬舎</publisher>
+        </item>
+        <item>
+            <title><![CDATA[夫婦はなぜ壊れるのか : カウンセリングの現場で見た絶望と変化]]></title>
+            <description><![CDATA[<p><strong>著者:</strong> 山脇, 由貴子</p>
+<p><strong>出版社:</strong> 幻冬舎</p>
+<p><strong>シリーズ:</strong> 幻冬舎新書</p>
+<p><strong>ISBN:</strong> 9784344987944</p>
+<p><strong>発売日:</strong> N/A</p>
+<div style="clear: both;"></div>]]></description>
+            <link>https://www.amazon.co.jp/dp/4344987942/</link>
+            <guid isPermaLink="false">9784344987944</guid>
+            <pubDate>Thu, 11 Dec 2025 00:10:06 GMT</pubDate>
+            <isbn>9784344987944</isbn>
+            <isbn10>4344987942</isbn10>
+            <series>幻冬舎新書</series>
+            <author>山脇, 由貴子</author>
+            <publisher>幻冬舎</publisher>
+        </item>
+        <item>
+            <title><![CDATA[東ユーラシア全史 : 陸海の交易でたどる5000年]]></title>
+            <description><![CDATA[<p><strong>著者:</strong> 上田信</p>
+<p><strong>出版社:</strong> 中央公論新社</p>
+<p><strong>シリーズ:</strong> 中公新書 ； 2884</p>
+<p><strong>ISBN:</strong> 9784121028846</p>
+<p><strong>発売日:</strong> N/A</p>
+<div style="clear: both;"></div>]]></description>
+            <link>https://www.amazon.co.jp/dp/4121028848/</link>
+            <guid isPermaLink="false">9784121028846</guid>
+            <pubDate>Thu, 11 Dec 2025 00:10:06 GMT</pubDate>
+            <isbn>9784121028846</isbn>
+            <isbn10>4121028848</isbn10>
+            <series>中公新書 ； 2884</series>
+            <author>上田信</author>
+            <publisher>中央公論新社</publisher>
+        </item>
+        <item>
+            <title><![CDATA[大大阪という神話 : 東京への対抗とローカリティの喪失]]></title>
+            <description><![CDATA[<p><strong>著者:</strong> 長﨑励朗</p>
+<p><strong>出版社:</strong> 中央公論新社</p>
+<p><strong>シリーズ:</strong> 中公新書 ； 2885</p>
+<p><strong>ISBN:</strong> 9784121028853</p>
+<p><strong>発売日:</strong> N/A</p>
+<div style="clear: both;"></div>]]></description>
+            <link>https://www.amazon.co.jp/dp/4121028856/</link>
+            <guid isPermaLink="false">9784121028853</guid>
+            <pubDate>Thu, 11 Dec 2025 00:10:06 GMT</pubDate>
+            <isbn>9784121028853</isbn>
+            <isbn10>4121028856</isbn10>
+            <series>中公新書 ； 2885</series>
+            <author>長﨑励朗</author>
+            <publisher>中央公論新社</publisher>
+        </item>
+        <item>
+            <title><![CDATA[イスラームが動かした中国史 : 唐宋代から鄭和の大航海、現代回族まで]]></title>
+            <description><![CDATA[<p><strong>著者:</strong> 海野典子</p>
+<p><strong>出版社:</strong> 中央公論新社</p>
+<p><strong>シリーズ:</strong> 中公新書 ； 2886</p>
+<p><strong>ISBN:</strong> 9784121028860</p>
+<p><strong>発売日:</strong> N/A</p>
+<div style="clear: both;"></div>]]></description>
+            <link>https://www.amazon.co.jp/dp/4121028864/</link>
+            <guid isPermaLink="false">9784121028860</guid>
+            <pubDate>Thu, 11 Dec 2025 00:10:06 GMT</pubDate>
+            <isbn>9784121028860</isbn>
+            <isbn10>4121028864</isbn10>
+            <series>中公新書 ； 2886</series>
+            <author>海野典子</author>
+            <publisher>中央公論新社</publisher>
+        </item>
+        <item>
+            <title><![CDATA[インフレの時代 : 賃金・物価・金利のゆくえ]]></title>
+            <description><![CDATA[<p><strong>著者:</strong> 渡辺努</p>
+<p><strong>出版社:</strong> 中央公論新社</p>
+<p><strong>シリーズ:</strong> 中公新書</p>
+<p><strong>ISBN:</strong> 9784121028891</p>
+<p><strong>発売日:</strong> N/A</p>
+<div style="clear: both;"></div>]]></description>
+            <link>https://www.amazon.co.jp/dp/4121028899/</link>
+            <guid isPermaLink="false">9784121028891</guid>
+            <pubDate>Thu, 11 Dec 2025 00:10:06 GMT</pubDate>
+            <isbn>9784121028891</isbn>
+            <isbn10>4121028899</isbn10>
+            <series>中公新書</series>
+            <author>渡辺努</author>
+            <publisher>中央公論新社</publisher>
+        </item>
+        <item>
+            <title><![CDATA[アルジェリア戦争 : フランスと戦後世界をつくった植民地独立闘争]]></title>
+            <description><![CDATA[<p><strong>著者:</strong> 黒田友哉</p>
+<p><strong>出版社:</strong> 中央公論新社</p>
+<p><strong>シリーズ:</strong> 中公新書</p>
+<p><strong>ISBN:</strong> 9784121028921</p>
+<p><strong>発売日:</strong> N/A</p>
+<div style="clear: both;"></div>]]></description>
+            <link>https://www.amazon.co.jp/dp/4121028929/</link>
+            <guid isPermaLink="false">9784121028921</guid>
+            <pubDate>Thu, 11 Dec 2025 00:10:06 GMT</pubDate>
+            <isbn>9784121028921</isbn>
+            <isbn10>4121028929</isbn10>
+            <series>中公新書</series>
+            <author>黒田友哉</author>
+            <publisher>中央公論新社</publisher>
+        </item>
+        <item>
+            <title><![CDATA[キリスト教入門の系譜 : 内村鑑三、遠藤周作から渡辺和子、オンライン教会まで]]></title>
+            <description><![CDATA[<p><strong>著者:</strong> 岡本亮輔</p>
+<p><strong>出版社:</strong> 中央公論新社</p>
+<p><strong>シリーズ:</strong> 中公新書</p>
+<p><strong>ISBN:</strong> 9784121028938</p>
+<p><strong>発売日:</strong> N/A</p>
+<div style="clear: both;"></div>]]></description>
+            <link>https://www.amazon.co.jp/dp/4121028937/</link>
+            <guid isPermaLink="false">9784121028938</guid>
+            <pubDate>Thu, 11 Dec 2025 00:10:06 GMT</pubDate>
+            <isbn>9784121028938</isbn>
+            <isbn10>4121028937</isbn10>
+            <series>中公新書</series>
+            <author>岡本亮輔</author>
+            <publisher>中央公論新社</publisher>
+        </item>
+        <item>
+            <title><![CDATA[増補版　老いの福袋 : あっぱれ！　ころばぬ先の知恵88]]></title>
+            <description><![CDATA[<p><strong>著者:</strong> 樋口恵子</p>
+<p><strong>出版社:</strong> 中央公論新社</p>
+<p><strong>シリーズ:</strong> 中公新書ラクレ</p>
+<p><strong>ISBN:</strong> 9784121508607</p>
+<p><strong>発売日:</strong> N/A</p>
+<div style="clear: both;"></div>]]></description>
+            <link>https://www.amazon.co.jp/dp/4121508602/</link>
+            <guid isPermaLink="false">9784121508607</guid>
+            <pubDate>Thu, 11 Dec 2025 00:10:06 GMT</pubDate>
+            <isbn>9784121508607</isbn>
+            <isbn10>4121508602</isbn10>
+            <series>中公新書ラクレ</series>
+            <author>樋口恵子</author>
+            <publisher>中央公論新社</publisher>
+        </item>
+        <item>
+            <title><![CDATA[90歳まで健康長寿]]></title>
+            <description><![CDATA[<p><strong>著者:</strong> 下方 浩史</p>
+<p><strong>出版社:</strong> 文藝春秋</p>
+<p><strong>シリーズ:</strong> 文春新書</p>
+<p><strong>ISBN:</strong> 9784166615216</p>
+<p><strong>発売日:</strong> N/A</p>
+<div style="clear: both;"></div>]]></description>
+            <link>https://www.amazon.co.jp/dp/4166615211/</link>
+            <guid isPermaLink="false">9784166615216</guid>
+            <pubDate>Thu, 11 Dec 2025 00:10:06 GMT</pubDate>
+            <isbn>9784166615216</isbn>
+            <isbn10>4166615211</isbn10>
+            <series>文春新書</series>
+            <author>下方 浩史</author>
+            <publisher>文藝春秋</publisher>
+        </item>
+        <item>
+            <title><![CDATA[ルポ　特殊詐欺無法地帯 ミャンマーに潜む犯罪集団に迫る]]></title>
+            <description><![CDATA[<p><strong>著者:</strong> 藤川 大樹</p>
+<p><strong>出版社:</strong> 文藝春秋</p>
+<p><strong>シリーズ:</strong> 文春新書</p>
+<p><strong>ISBN:</strong> 9784166615223</p>
+<p><strong>発売日:</strong> N/A</p>
+<div style="clear: both;"></div>]]></description>
+            <link>https://www.amazon.co.jp/dp/416661522X/</link>
+            <guid isPermaLink="false">9784166615223</guid>
+            <pubDate>Thu, 11 Dec 2025 00:10:06 GMT</pubDate>
+            <isbn>9784166615223</isbn>
+            <isbn10>416661522X</isbn10>
+            <series>文春新書</series>
+            <author>藤川 大樹</author>
+            <publisher>文藝春秋</publisher>
+        </item>
+        <item>
+            <title><![CDATA[相続税調査でわかった　富裕層が大事にしている「お金の基本」]]></title>
+            <description><![CDATA[<p><strong>著者:</strong> 小林 義崇</p>
+<p><strong>出版社:</strong> 講談社</p>
+<p><strong>シリーズ:</strong> 講談社＋α新書</p>
+<p><strong>ISBN:</strong> 9784065370605</p>
+<p><strong>発売日:</strong> N/A</p>
+<div style="clear: both;"></div>]]></description>
+            <link>https://www.amazon.co.jp/dp/4065370604/</link>
+            <guid isPermaLink="false">9784065370605</guid>
+            <pubDate>Thu, 11 Dec 2025 00:10:06 GMT</pubDate>
+            <isbn>9784065370605</isbn>
+            <isbn10>4065370604</isbn10>
+            <series>講談社＋α新書</series>
+            <author>小林 義崇</author>
+            <publisher>講談社</publisher>
+        </item>
+        <item>
+            <title><![CDATA[白鵬はなぜ嫌われなければならなかったのか　だれも知らない角界不思議話]]></title>
+            <description><![CDATA[<p><strong>著者:</strong> 抜井 規泰</p>
+<p><strong>出版社:</strong> 講談社</p>
+<p><strong>シリーズ:</strong> 講談社＋α新書</p>
+<p><strong>ISBN:</strong> 9784065423196</p>
+<p><strong>発売日:</strong> N/A</p>
+<div style="clear: both;"></div>]]></description>
+            <link>https://www.amazon.co.jp/dp/4065423198/</link>
+            <guid isPermaLink="false">9784065423196</guid>
+            <pubDate>Thu, 11 Dec 2025 00:10:06 GMT</pubDate>
+            <isbn>9784065423196</isbn>
+            <isbn10>4065423198</isbn10>
+            <series>講談社＋α新書</series>
+            <author>抜井 規泰</author>
+            <publisher>講談社</publisher>
+        </item>
+        <item>
+            <title><![CDATA[「ふつう」ってなんだろう　病気と健康のあいだ]]></title>
+            <description><![CDATA[<p><strong>著者:</strong> 美馬 達哉</p>
+<p><strong>出版社:</strong> 講談社</p>
+<p><strong>シリーズ:</strong> 講談社現代新書</p>
+<p><strong>ISBN:</strong> 9784065423318</p>
+<p><strong>発売日:</strong> N/A</p>
+<div style="clear: both;"></div>]]></description>
+            <link>https://www.amazon.co.jp/dp/4065423317/</link>
+            <guid isPermaLink="false">9784065423318</guid>
+            <pubDate>Thu, 11 Dec 2025 00:10:06 GMT</pubDate>
+            <isbn>9784065423318</isbn>
+            <isbn10>4065423317</isbn10>
+            <series>講談社現代新書</series>
+            <author>美馬 達哉</author>
+            <publisher>講談社</publisher>
+        </item>
+        <item>
+            <title><![CDATA[今こそ経済学を問い直す　切実な「必要」の声を聴くために]]></title>
+            <description><![CDATA[<p><strong>著者:</strong> 中村 隆之</p>
+<p><strong>出版社:</strong> 講談社</p>
+<p><strong>シリーズ:</strong> 講談社現代新書</p>
+<p><strong>ISBN:</strong> 9784065425749</p>
+<p><strong>発売日:</strong> N/A</p>
+<div style="clear: both;"></div>]]></description>
+            <link>https://www.amazon.co.jp/dp/4065425743/</link>
+            <guid isPermaLink="false">9784065425749</guid>
+            <pubDate>Thu, 11 Dec 2025 00:10:06 GMT</pubDate>
+            <isbn>9784065425749</isbn>
+            <isbn10>4065425743</isbn10>
+            <series>講談社現代新書</series>
+            <author>中村 隆之</author>
+            <publisher>講談社</publisher>
+        </item>
+        <item>
+            <title><![CDATA[ホロコースト後の機能不全 ドイツ、イスラエル、犠牲と加害の関係]]></title>
+            <description><![CDATA[<p><strong>著者:</strong> 武井　彩佳</p>
+<p><strong>出版社:</strong> ＫＡＤＯＫＡＷＡ</p>
+<p><strong>シリーズ:</strong> 角川新書</p>
+<p><strong>ISBN:</strong> 9784040824956</p>
+<p><strong>発売日:</strong> N/A</p>
+<div style="clear: both;"></div>]]></description>
+            <link>https://www.amazon.co.jp/dp/4040824954/</link>
+            <guid isPermaLink="false">9784040824956</guid>
+            <pubDate>Thu, 11 Dec 2025 00:10:06 GMT</pubDate>
+            <isbn>9784040824956</isbn>
+            <isbn10>4040824954</isbn10>
+            <series>角川新書</series>
+            <author>武井　彩佳</author>
+            <publisher>ＫＡＤＯＫＡＷＡ</publisher>
+        </item>
+        <item>
+            <title><![CDATA[変革する手術 「神の手」から「無侵襲」へ]]></title>
+            <description><![CDATA[<p><strong>著者:</strong> 石沢　武彰</p>
+<p><strong>出版社:</strong> ＫＡＤＯＫＡＷＡ</p>
+<p><strong>シリーズ:</strong> 角川新書</p>
+<p><strong>ISBN:</strong> 9784040825588</p>
+<p><strong>発売日:</strong> N/A</p>
+<div style="clear: both;"></div>]]></description>
+            <link>https://www.amazon.co.jp/dp/4040825586/</link>
+            <guid isPermaLink="false">9784040825588</guid>
+            <pubDate>Thu, 11 Dec 2025 00:10:06 GMT</pubDate>
+            <isbn>9784040825588</isbn>
+            <isbn10>4040825586</isbn10>
+            <series>角川新書</series>
+            <author>石沢　武彰</author>
+            <publisher>ＫＡＤＯＫＡＷＡ</publisher>
+        </item>
+        <item>
+            <title><![CDATA[アカデミー賞入門]]></title>
+            <description><![CDATA[<p><strong>著者:</strong> 松崎　健夫</p>
+<p><strong>出版社:</strong> ＫＡＤＯＫＡＷＡ</p>
+<p><strong>シリーズ:</strong> 角川新書</p>
+<p><strong>ISBN:</strong> 9784040825649</p>
+<p><strong>発売日:</strong> N/A</p>
+<div style="clear: both;"></div>]]></description>
+            <link>https://www.amazon.co.jp/dp/4040825640/</link>
+            <guid isPermaLink="false">9784040825649</guid>
+            <pubDate>Thu, 11 Dec 2025 00:10:06 GMT</pubDate>
+            <isbn>9784040825649</isbn>
+            <isbn10>4040825640</isbn10>
+            <series>角川新書</series>
+            <author>松崎　健夫</author>
+            <publisher>ＫＡＤＯＫＡＷＡ</publisher>
+        </item>
         <item>
             <title><![CDATA[なぜ「地方女子」は呪縛になるのか]]></title>
             <description><![CDATA[<p><strong>著者:</strong> 寺町 晋哉</p>
@@ -17,10 +527,11 @@
 <p><strong>ISBN:</strong> 9784087213942</p>
 <p><strong>発売日:</strong> N/A</p>
 <div style="clear: both;"></div>]]></description>
-            <link>https://openbd.jp/get?isbn=9784087213942</link>
+            <link>https://www.amazon.co.jp/s?k=9784087213942</link>
             <guid isPermaLink="false">9784087213942</guid>
             <pubDate>Wed, 10 Dec 2025 00:09:57 GMT</pubDate>
             <isbn>9784087213942</isbn>
+            <isbn10></isbn10>
             <series>集英社新書</series>
             <author>寺町 晋哉</author>
             <publisher>集英社</publisher>
@@ -33,10 +544,11 @@
 <p><strong>ISBN:</strong> 9784087213959</p>
 <p><strong>発売日:</strong> N/A</p>
 <div style="clear: both;"></div>]]></description>
-            <link>https://openbd.jp/get?isbn=9784087213959</link>
+            <link>https://www.amazon.co.jp/s?k=9784087213959</link>
             <guid isPermaLink="false">9784087213959</guid>
             <pubDate>Wed, 10 Dec 2025 00:09:57 GMT</pubDate>
             <isbn>9784087213959</isbn>
+            <isbn10></isbn10>
             <series>集英社新書</series>
             <author>藤原 賢吾</author>
             <publisher>集英社</publisher>
@@ -49,10 +561,11 @@
 <p><strong>ISBN:</strong> 9784087213966</p>
 <p><strong>発売日:</strong> N/A</p>
 <div style="clear: both;"></div>]]></description>
-            <link>https://openbd.jp/get?isbn=9784087213966</link>
+            <link>https://www.amazon.co.jp/s?k=9784087213966</link>
             <guid isPermaLink="false">9784087213966</guid>
             <pubDate>Wed, 10 Dec 2025 00:09:57 GMT</pubDate>
             <isbn>9784087213966</isbn>
+            <isbn10></isbn10>
             <series>集英社新書</series>
             <author>森永 卓郎</author>
             <publisher>集英社</publisher>
@@ -65,10 +578,11 @@
 <p><strong>ISBN:</strong> 9784087213973</p>
 <p><strong>発売日:</strong> N/A</p>
 <div style="clear: both;"></div>]]></description>
-            <link>https://openbd.jp/get?isbn=9784087213973</link>
+            <link>https://www.amazon.co.jp/s?k=9784087213973</link>
             <guid isPermaLink="false">9784087213973</guid>
             <pubDate>Wed, 10 Dec 2025 00:09:57 GMT</pubDate>
             <isbn>9784087213973</isbn>
+            <isbn10></isbn10>
             <series>集英社新書</series>
             <author>森平 雅彦</author>
             <publisher>集英社</publisher>
@@ -81,10 +595,11 @@
 <p><strong>ISBN:</strong> 9784166615193</p>
 <p><strong>発売日:</strong> N/A</p>
 <div style="clear: both;"></div>]]></description>
-            <link>https://openbd.jp/get?isbn=9784166615193</link>
+            <link>https://www.amazon.co.jp/s?k=9784166615193</link>
             <guid isPermaLink="false">9784166615193</guid>
             <pubDate>Wed, 10 Dec 2025 00:09:57 GMT</pubDate>
             <isbn>9784166615193</isbn>
+            <isbn10></isbn10>
             <series>文春新書</series>
             <author>加山 竜司</author>
             <publisher>文藝春秋</publisher>
@@ -97,10 +612,11 @@
 <p><strong>ISBN:</strong> 9784582860993</p>
 <p><strong>発売日:</strong> N/A</p>
 <div style="clear: both;"></div>]]></description>
-            <link>https://openbd.jp/get?isbn=9784582860993</link>
+            <link>https://www.amazon.co.jp/s?k=9784582860993</link>
             <guid isPermaLink="false">9784582860993</guid>
             <pubDate>Wed, 10 Dec 2025 00:09:57 GMT</pubDate>
             <isbn>9784582860993</isbn>
+            <isbn10></isbn10>
             <series>平凡社新書</series>
             <author>林　陵平</author>
             <publisher>平凡社</publisher>
