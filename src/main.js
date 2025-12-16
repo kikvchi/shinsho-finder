@@ -4,6 +4,7 @@ import { fetchCoverage } from './fetch-coverage.js';
 import { fetchDetails } from './fetch-details.js';
 import { filterShinsho } from './filter-shinsho.js';
 import { generateRSS } from './generate-rss.js';
+import { postNewBooksToX } from './post-to-x.js';
 
 const DATA_DIR = path.join(process.cwd(), 'data');
 const DOCS_DIR = path.join(process.cwd(), 'docs');
@@ -81,6 +82,9 @@ async function main() {
         // Save updated database
         await saveJSON(SHINSHO_DB_PATH, shinshoDatabase);
         console.log(`✓ Updated shinsho database (${shinshoDatabase.length} total books)\n`);
+
+        // Step 6.5: Post new books to X
+        await postNewBooksToX(newShinsho);
       } else {
         console.log('No new shinsho books found\n');
       }
