@@ -17,7 +17,11 @@ openBD APIを使用して、日本の新書の新刊情報を自動収集し、R
 https://analekt.github.io/shinsho-finder/index.xml
 ```
 
-お好みのRSSリーダーに登録してご利用ください。
+お好みのRSSリーダーに登録してご利用ください。フォークして使う場合は、以下のURLになります。
+
+```text
+https://YOUR-ACCOUNT.github.io/shinsho-finder/index.xml
+```
 
 ## 機能
 
@@ -26,7 +30,7 @@ https://analekt.github.io/shinsho-finder/index.xml
 - 各アイテムにはAmazonの商品ページへのリンクを含む
 - 書籍情報（タイトル、著者、シリーズ、発売日、内容紹介など）を掲載
 
-### X（Twitter）自動投稿
+### X自動投稿
 - 新刊が検出されると自動的にXへ投稿
 - 重複投稿を防止（投稿済みISBNを記録）
 - Amazonアフィリエイトリンク付き
@@ -35,19 +39,26 @@ https://analekt.github.io/shinsho-finder/index.xml
 
 以下の主要な新書レーベルをシリーズ名で判定します：
 
-**教養新書**:
-
-- 岩波新書、中公新書、ちくま新書、講談社現代新書
-
-**実用新書**:
-
-- 文春新書、新潮新書、集英社新書、光文社新書、幻冬舎新書
-- PHP新書、平凡社新書、小学館新書、角川新書、SB新書
-
-**その他**:
-
-- ブルーバックス、ちくまプリマー新書、中公新書ラクレ
-- 講談社＋α新書、岩波ジュニア新書、ベスト新書
+- 岩波新書
+- 中公新書
+- ちくま新書
+- 講談社現代新書
+- 文春新書
+- 新潮新書
+- 集英社新書
+- 光文社新書
+- 幻冬舎新書
+- PHP新書
+- 平凡社新書
+- 小学館新書
+- 角川新書
+- SB新書
+- ブルーバックス
+- ちくまプリマー新書
+- 中公新書ラクレ
+- 講談社＋α新書
+- 岩波ジュニア新書
+- ベスト新書
 
 ## セットアップ手順
 
@@ -69,7 +80,7 @@ https://analekt.github.io/shinsho-finder/index.xml
 
 ### 4. X（Twitter）APIの設定（オプション）
 
-X自動投稿機能を使用する場合：
+ご自身管理のXアカウントに自動投稿機能したい場合：
 
 1. [X Developer Portal](https://developer.x.com/en/portal/dashboard)でアプリを作成
 2. リポジトリの `Settings` → `Secrets and variables` → `Actions` に移動
