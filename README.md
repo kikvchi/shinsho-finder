@@ -1,6 +1,6 @@
 # 新書ファインダー (Shinsho Finder)
 
-openBD APIを使用して、日本の新書の新刊情報を自動収集し、RSSフィードとして配信するツールです。新刊検出時には[X]（https://x.com/shinshofinder）にも自動投稿します。
+openBD APIを使用して、日本の新書の新刊情報を自動収集し、RSSフィードとして配信するツールです。新刊検出時には[X](https://x.com/shinshofinder)にも自動投稿します。
 
 ## 概要
 
