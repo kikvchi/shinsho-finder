@@ -29,6 +29,29 @@ function isFuturePublication(pubdate) {
 }
 
 /**
+ * Check if a book was recently added to openBD (within the last 3 months)
+ * Used as fallback when pubdate is not available
+ * @param {string} datekoukai - Date the book was published on openBD (YYYY-MM-DD format)
+ * @returns {boolean} True if the book was recently added
+ */
+function isRecentlyAdded(datekoukai) {
+  if (!datekoukai) {
+    return false;
+  }
+
+  const koukai = new Date(datekoukai);
+  if (isNaN(koukai.getTime())) {
+    return false;
+  }
+
+  const now = new Date();
+  const threeMonthsAgo = new Date(now);
+  threeMonthsAgo.setMonth(threeMonthsAgo.getMonth() - 3);
+
+  return koukai >= threeMonthsAgo;
+}
+
+/**
  * Convert ISBN-13 to ISBN-10
  * @param {string} isbn13 - 13-digit ISBN
  * @returns {string} 10-digit ISBN or empty string if conversion fails
@@ -129,7 +152,15 @@ export function filterShinsho(books) {
 
       // Get publication date from summary and check if it's a future publication
       const pubdate = book?.summary?.pubdate || '';
-      if (!isFuturePublication(pubdate)) {
+      const datekoukai = book?.hanmoto?.datekoukai || '';
+
+      // Check if this is a valid new book:
+      // 1. Has a future publication date, OR
+      // 2. No pubdate but was recently added to openBD (likely upcoming)
+      const hasFuturePubdate = isFuturePublication(pubdate);
+      const isRecentWithNoPubdate = !pubdate && isRecentlyAdded(datekoukai);
+
+      if (!hasFuturePubdate && !isRecentWithNoPubdate) {
         continue; // Skip books that are already published
       }
 
@@ -157,7 +188,7 @@ export function filterShinsho(books) {
                        publishingDetail.Publisher?.[0]?.PublisherName || 'N/A';
 
       // Format publication date (YYYYMM -> YYYY年MM月)
-      let publishedDate = 'N/A';
+      let publishedDate = '発売日未定';
       if (pubdate && pubdate.length >= 6) {
         const year = pubdate.substring(0, 4);
         const month = pubdate.substring(4, 6);
