@@ -4,11 +4,300 @@
         <description><![CDATA[openBD APIを使用した新書の新刊情報フィード]]></description>
         <link>https://analekt.github.io/shinsho-finder/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 17 Dec 2025 00:08:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Dec 2025 01:22:57 GMT</lastBuildDate>
         <atom:link href="https://analekt.github.io/shinsho-finder/index.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 17 Dec 2025 00:08:56 GMT</pubDate>
+        <pubDate>Wed, 17 Dec 2025 01:22:57 GMT</pubDate>
         <language><![CDATA[ja]]></language>
         <ttl>1440</ttl>
+        <item>
+            <title><![CDATA[自治体は何のためにあるのか : 〈地域活性化〉を問い直す]]></title>
+            <description><![CDATA[<p><strong>著者:</strong> 今井 照</p>
+<p><strong>出版社:</strong> 岩波書店</p>
+<p><strong>シリーズ:</strong> 岩波新書 ； 新赤版 2092</p>
+<p><strong>ISBN:</strong> 9784004320920</p>
+<p><strong>発売日:</strong> 発売日未定</p>
+<div style="clear: both;"></div>]]></description>
+            <link>https://www.amazon.co.jp/dp/4004320925/</link>
+            <guid isPermaLink="false">9784004320920</guid>
+            <pubDate>Wed, 17 Dec 2025 01:21:42 GMT</pubDate>
+            <isbn>9784004320920</isbn>
+            <isbn10>4004320925</isbn10>
+            <series>岩波新書 ； 新赤版 2092</series>
+            <author>今井 照</author>
+            <publisher>岩波書店</publisher>
+        </item>
+        <item>
+            <title><![CDATA[中高年シングル女性 : ひとりで暮らすわたしたちのこと]]></title>
+            <description><![CDATA[<p><strong>著者:</strong> 和田 靜香</p>
+<p><strong>出版社:</strong> 岩波書店</p>
+<p><strong>シリーズ:</strong> 岩波新書 ； 新赤版 2093</p>
+<p><strong>ISBN:</strong> 9784004320937</p>
+<p><strong>発売日:</strong> 発売日未定</p>
+<div style="clear: both;"></div>]]></description>
+            <link>https://www.amazon.co.jp/dp/4004320933/</link>
+            <guid isPermaLink="false">9784004320937</guid>
+            <pubDate>Wed, 17 Dec 2025 01:21:42 GMT</pubDate>
+            <isbn>9784004320937</isbn>
+            <isbn10>4004320933</isbn10>
+            <series>岩波新書 ； 新赤版 2093</series>
+            <author>和田 靜香</author>
+            <publisher>岩波書店</publisher>
+        </item>
+        <item>
+            <title><![CDATA[多様性とどう向き合うか : 違和感から考える]]></title>
+            <description><![CDATA[<p><strong>著者:</strong> 岩渕 功一</p>
+<p><strong>出版社:</strong> 岩波書店</p>
+<p><strong>シリーズ:</strong> 岩波新書 ； 新赤版 2094</p>
+<p><strong>ISBN:</strong> 9784004320944</p>
+<p><strong>発売日:</strong> 発売日未定</p>
+<div style="clear: both;"></div>]]></description>
+            <link>https://www.amazon.co.jp/dp/4004320941/</link>
+            <guid isPermaLink="false">9784004320944</guid>
+            <pubDate>Wed, 17 Dec 2025 01:21:42 GMT</pubDate>
+            <isbn>9784004320944</isbn>
+            <isbn10>4004320941</isbn10>
+            <series>岩波新書 ； 新赤版 2094</series>
+            <author>岩渕 功一</author>
+            <publisher>岩波書店</publisher>
+        </item>
+        <item>
+            <title><![CDATA[水木しげると京極夏彦 : 時代を超える「妖怪」の魅力]]></title>
+            <description><![CDATA[<p><strong>著者:</strong> 朝里樹</p>
+<p><strong>出版社:</strong> 中央公論新社</p>
+<p><strong>シリーズ:</strong> 中公新書ラクレ ； 855</p>
+<p><strong>ISBN:</strong> 9784121508553</p>
+<p><strong>発売日:</strong> 発売日未定</p>
+<div style="clear: both;"></div>]]></description>
+            <link>https://www.amazon.co.jp/dp/4121508556/</link>
+            <guid isPermaLink="false">9784121508553</guid>
+            <pubDate>Wed, 17 Dec 2025 01:21:42 GMT</pubDate>
+            <isbn>9784121508553</isbn>
+            <isbn10>4121508556</isbn10>
+            <series>中公新書ラクレ ； 855</series>
+            <author>朝里樹</author>
+            <publisher>中央公論新社</publisher>
+        </item>
+        <item>
+            <title><![CDATA[弘兼流　人生は後半戦がおもしろい]]></title>
+            <description><![CDATA[<p><strong>著者:</strong> 弘兼憲史</p>
+<p><strong>出版社:</strong> 中央公論新社</p>
+<p><strong>シリーズ:</strong> 中公新書ラクレ ； 856</p>
+<p><strong>ISBN:</strong> 9784121508560</p>
+<p><strong>発売日:</strong> 発売日未定</p>
+<div style="clear: both;"></div>]]></description>
+            <link>https://www.amazon.co.jp/dp/4121508564/</link>
+            <guid isPermaLink="false">9784121508560</guid>
+            <pubDate>Wed, 17 Dec 2025 01:21:42 GMT</pubDate>
+            <isbn>9784121508560</isbn>
+            <isbn10>4121508564</isbn10>
+            <series>中公新書ラクレ ； 856</series>
+            <author>弘兼憲史</author>
+            <publisher>中央公論新社</publisher>
+        </item>
+        <item>
+            <title><![CDATA[検視官の現場 : 遺体が語る多死社会・日本のリアル]]></title>
+            <description><![CDATA[<p><strong>著者:</strong> 山形真紀</p>
+<p><strong>出版社:</strong> 中央公論新社</p>
+<p><strong>シリーズ:</strong> 中公新書ラクレ ； 858</p>
+<p><strong>ISBN:</strong> 9784121508584</p>
+<p><strong>発売日:</strong> 発売日未定</p>
+<div style="clear: both;"></div>]]></description>
+            <link>https://www.amazon.co.jp/dp/4121508580/</link>
+            <guid isPermaLink="false">9784121508584</guid>
+            <pubDate>Wed, 17 Dec 2025 01:21:42 GMT</pubDate>
+            <isbn>9784121508584</isbn>
+            <isbn10>4121508580</isbn10>
+            <series>中公新書ラクレ ； 858</series>
+            <author>山形真紀</author>
+            <publisher>中央公論新社</publisher>
+        </item>
+        <item>
+            <title><![CDATA[中東　大地殻変動の結末 : イスラエルとイランをめぐる、米欧中露の本音と思惑]]></title>
+            <description><![CDATA[<p><strong>著者:</strong> 宮家邦彦</p>
+<p><strong>出版社:</strong> 中央公論新社</p>
+<p><strong>シリーズ:</strong> 中公新書ラクレ ； 859</p>
+<p><strong>ISBN:</strong> 9784121508591</p>
+<p><strong>発売日:</strong> 発売日未定</p>
+<div style="clear: both;"></div>]]></description>
+            <link>https://www.amazon.co.jp/dp/4121508599/</link>
+            <guid isPermaLink="false">9784121508591</guid>
+            <pubDate>Wed, 17 Dec 2025 01:21:42 GMT</pubDate>
+            <isbn>9784121508591</isbn>
+            <isbn10>4121508599</isbn10>
+            <series>中公新書ラクレ ； 859</series>
+            <author>宮家邦彦</author>
+            <publisher>中央公論新社</publisher>
+        </item>
+        <item>
+            <title><![CDATA[アフリカから来たランナーたち 箱根駅伝のケニア人留学生]]></title>
+            <description><![CDATA[<p><strong>著者:</strong> 泉 秀一</p>
+<p><strong>出版社:</strong> 文藝春秋</p>
+<p><strong>シリーズ:</strong> 文春新書</p>
+<p><strong>ISBN:</strong> 9784166615186</p>
+<p><strong>発売日:</strong> 発売日未定</p>
+<div style="clear: both;"></div>]]></description>
+            <link>https://www.amazon.co.jp/dp/4166615181/</link>
+            <guid isPermaLink="false">9784166615186</guid>
+            <pubDate>Wed, 17 Dec 2025 01:21:42 GMT</pubDate>
+            <isbn>9784166615186</isbn>
+            <isbn10>4166615181</isbn10>
+            <series>文春新書</series>
+            <author>泉 秀一</author>
+            <publisher>文藝春秋</publisher>
+        </item>
+        <item>
+            <title><![CDATA[音と光の世紀 ラジオ・テレビの100年史]]></title>
+            <description><![CDATA[<p><strong>著者:</strong> 原 真</p>
+<p><strong>出版社:</strong> 集英社</p>
+<p><strong>シリーズ:</strong> 集英社新書</p>
+<p><strong>ISBN:</strong> 9784087213928</p>
+<p><strong>発売日:</strong> 発売日未定</p>
+<div style="clear: both;"></div>]]></description>
+            <link>https://www.amazon.co.jp/dp/4087213927/</link>
+            <guid isPermaLink="false">9784087213928</guid>
+            <pubDate>Wed, 17 Dec 2025 01:21:42 GMT</pubDate>
+            <isbn>9784087213928</isbn>
+            <isbn10>4087213927</isbn10>
+            <series>集英社新書</series>
+            <author>原 真</author>
+            <publisher>集英社</publisher>
+        </item>
+        <item>
+            <title><![CDATA[自己との対話 社会学者、じぶんのAIと戦う]]></title>
+            <description><![CDATA[<p><strong>著者:</strong> 吉見 俊哉</p>
+<p><strong>出版社:</strong> 集英社</p>
+<p><strong>シリーズ:</strong> 集英社新書</p>
+<p><strong>ISBN:</strong> 9784087213935</p>
+<p><strong>発売日:</strong> 発売日未定</p>
+<div style="clear: both;"></div>]]></description>
+            <link>https://www.amazon.co.jp/dp/4087213935/</link>
+            <guid isPermaLink="false">9784087213935</guid>
+            <pubDate>Wed, 17 Dec 2025 01:21:42 GMT</pubDate>
+            <isbn>9784087213935</isbn>
+            <isbn10>4087213935</isbn10>
+            <series>集英社新書</series>
+            <author>吉見 俊哉</author>
+            <publisher>集英社</publisher>
+        </item>
+        <item>
+            <title><![CDATA[アメリカが壊れる！]]></title>
+            <description><![CDATA[<p><strong>著者:</strong> 野口悠紀雄</p>
+<p><strong>出版社:</strong> 幻冬舎</p>
+<p><strong>シリーズ:</strong> 幻冬舎新書</p>
+<p><strong>ISBN:</strong> 9784344987890</p>
+<p><strong>発売日:</strong> 発売日未定</p>
+<div style="clear: both;"></div>]]></description>
+            <link>https://www.amazon.co.jp/dp/4344987896/</link>
+            <guid isPermaLink="false">9784344987890</guid>
+            <pubDate>Wed, 17 Dec 2025 01:21:42 GMT</pubDate>
+            <isbn>9784344987890</isbn>
+            <isbn10>4344987896</isbn10>
+            <series>幻冬舎新書</series>
+            <author>野口悠紀雄</author>
+            <publisher>幻冬舎</publisher>
+        </item>
+        <item>
+            <title><![CDATA[入門講義 アニミズム : 動物も川も人間も平等という知恵]]></title>
+            <description><![CDATA[<p><strong>著者:</strong> 奥野　克巳</p>
+<p><strong>出版社:</strong> 平凡社</p>
+<p><strong>シリーズ:</strong> 平凡社新書</p>
+<p><strong>ISBN:</strong> 9784582860948</p>
+<p><strong>発売日:</strong> 発売日未定</p>
+<div style="clear: both;"></div>]]></description>
+            <link>https://www.amazon.co.jp/dp/458286094X/</link>
+            <guid isPermaLink="false">9784582860948</guid>
+            <pubDate>Wed, 17 Dec 2025 01:21:42 GMT</pubDate>
+            <isbn>9784582860948</isbn>
+            <isbn10>458286094X</isbn10>
+            <series>平凡社新書</series>
+            <author>奥野　克巳</author>
+            <publisher>平凡社</publisher>
+        </item>
+        <item>
+            <title><![CDATA[ドゥルーズ入門 : 来るべき知への招待]]></title>
+            <description><![CDATA[<p><strong>著者:</strong> 澤野　雅樹</p>
+<p><strong>出版社:</strong> 平凡社</p>
+<p><strong>シリーズ:</strong> 平凡社新書</p>
+<p><strong>ISBN:</strong> 9784582860955</p>
+<p><strong>発売日:</strong> 発売日未定</p>
+<div style="clear: both;"></div>]]></description>
+            <link>https://www.amazon.co.jp/dp/4582860958/</link>
+            <guid isPermaLink="false">9784582860955</guid>
+            <pubDate>Wed, 17 Dec 2025 01:21:42 GMT</pubDate>
+            <isbn>9784582860955</isbn>
+            <isbn10>4582860958</isbn10>
+            <series>平凡社新書</series>
+            <author>澤野　雅樹</author>
+            <publisher>平凡社</publisher>
+        </item>
+        <item>
+            <title><![CDATA[感覚史入門 なぜプラスチックを「清潔」に感じるのか]]></title>
+            <description><![CDATA[<p><strong>著者:</strong> 久野　愛</p>
+<p><strong>出版社:</strong> 平凡社</p>
+<p><strong>シリーズ:</strong> 平凡社新書</p>
+<p><strong>ISBN:</strong> 9784582860962</p>
+<p><strong>発売日:</strong> 発売日未定</p>
+<div style="clear: both;"></div>]]></description>
+            <link>https://www.amazon.co.jp/dp/4582860966/</link>
+            <guid isPermaLink="false">9784582860962</guid>
+            <pubDate>Wed, 17 Dec 2025 01:21:42 GMT</pubDate>
+            <isbn>9784582860962</isbn>
+            <isbn10>4582860966</isbn10>
+            <series>平凡社新書</series>
+            <author>久野　愛</author>
+            <publisher>平凡社</publisher>
+        </item>
+        <item>
+            <title><![CDATA[7つのキーワードでみる 分断国家アメリカ]]></title>
+            <description><![CDATA[<p><strong>著者:</strong> 西山　隆行</p>
+<p><strong>出版社:</strong> 平凡社</p>
+<p><strong>シリーズ:</strong> 平凡社新書</p>
+<p><strong>ISBN:</strong> 9784582860979</p>
+<p><strong>発売日:</strong> 発売日未定</p>
+<div style="clear: both;"></div>]]></description>
+            <link>https://www.amazon.co.jp/dp/4582860974/</link>
+            <guid isPermaLink="false">9784582860979</guid>
+            <pubDate>Wed, 17 Dec 2025 01:21:42 GMT</pubDate>
+            <isbn>9784582860979</isbn>
+            <isbn10>4582860974</isbn10>
+            <series>平凡社新書</series>
+            <author>西山　隆行</author>
+            <publisher>平凡社</publisher>
+        </item>
+        <item>
+            <title><![CDATA[カラー版 名画でわかるヨーロッパの24時間]]></title>
+            <description><![CDATA[<p><strong>著者:</strong> ヤスダコーシキ</p>
+<p><strong>出版社:</strong> 平凡社</p>
+<p><strong>シリーズ:</strong> 平凡社新書</p>
+<p><strong>ISBN:</strong> 9784582860986</p>
+<p><strong>発売日:</strong> 発売日未定</p>
+<div style="clear: both;"></div>]]></description>
+            <link>https://www.amazon.co.jp/dp/4582860982/</link>
+            <guid isPermaLink="false">9784582860986</guid>
+            <pubDate>Wed, 17 Dec 2025 01:21:42 GMT</pubDate>
+            <isbn>9784582860986</isbn>
+            <isbn10>4582860982</isbn10>
+            <series>平凡社新書</series>
+            <author>ヤスダコーシキ</author>
+            <publisher>平凡社</publisher>
+        </item>
+        <item>
+            <title><![CDATA[明治維新10講]]></title>
+            <description><![CDATA[<p><strong>著者:</strong> 三谷 博</p>
+<p><strong>出版社:</strong> 岩波書店</p>
+<p><strong>シリーズ:</strong> 岩波新書 ； 新赤版 2091</p>
+<p><strong>ISBN:</strong> 9784004320913</p>
+<p><strong>発売日:</strong> 発売日未定</p>
+<div style="clear: both;"></div>]]></description>
+            <link>https://www.amazon.co.jp/dp/4004320917/</link>
+            <guid isPermaLink="false">9784004320913</guid>
+            <pubDate>Wed, 17 Dec 2025 01:21:42 GMT</pubDate>
+            <isbn>9784004320913</isbn>
+            <isbn10>4004320917</isbn10>
+            <series>岩波新書 ； 新赤版 2091</series>
+            <author>三谷 博</author>
+            <publisher>岩波書店</publisher>
+        </item>
         <item>
             <title><![CDATA[宮本常一 : 民俗学を超えて]]></title>
             <description><![CDATA[<p><strong>著者:</strong> 木村 哲也</p>
