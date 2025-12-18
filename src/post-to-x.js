@@ -128,32 +128,18 @@ ${amazonUrl}
  * @returns {Promise<number>} Number of books posted
  */
 export async function postNewBooksToX(newBooks) {
-  console.log(`\n--- X Posting Debug ---`);
-  console.log(`Books received: ${newBooks?.length || 0}`);
-
   if (!newBooks || newBooks.length === 0) {
     console.log('No new books to post to X');
     return 0;
   }
 
   // Check if X API is configured
-  const hasApiKey = !!process.env.X_API_KEY;
-  const hasApiSecret = !!process.env.X_API_SECRET;
-  const hasAccessToken = !!process.env.X_ACCESS_TOKEN;
-  const hasAccessTokenSecret = !!process.env.X_ACCESS_TOKEN_SECRET;
-
-  console.log(`X_API_KEY: ${hasApiKey ? 'set' : 'NOT SET'}`);
-  console.log(`X_API_SECRET: ${hasApiSecret ? 'set' : 'NOT SET'}`);
-  console.log(`X_ACCESS_TOKEN: ${hasAccessToken ? 'set' : 'NOT SET'}`);
-  console.log(`X_ACCESS_TOKEN_SECRET: ${hasAccessTokenSecret ? 'set' : 'NOT SET'}`);
-
   if (!process.env.X_API_KEY) {
     console.log('X API not configured, skipping posting');
     return 0;
   }
 
   const postedISBNs = await loadPostedISBNs();
-  console.log(`Already posted ISBNs: ${postedISBNs.size}`);
   let postedCount = 0;
 
   for (const book of newBooks) {
