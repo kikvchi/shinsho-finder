@@ -4,11 +4,62 @@
         <description><![CDATA[openBD APIを使用した新書の新刊情報フィード]]></description>
         <link>https://analekt.github.io/shinsho-finder/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 17 Dec 2025 22:05:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Dec 2025 22:05:31 GMT</lastBuildDate>
         <atom:link href="https://analekt.github.io/shinsho-finder/index.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 17 Dec 2025 22:05:33 GMT</pubDate>
+        <pubDate>Thu, 18 Dec 2025 22:05:31 GMT</pubDate>
         <language><![CDATA[ja]]></language>
         <ttl>1440</ttl>
+        <item>
+            <title><![CDATA[読むだけでわかる「微分」　考え方から証明までがわかる「超」入門]]></title>
+            <description><![CDATA[<p><strong>著者:</strong> 永野 裕之</p>
+<p><strong>出版社:</strong> 講談社</p>
+<p><strong>シリーズ:</strong> ブルーバックス</p>
+<p><strong>ISBN:</strong> 9784065425121</p>
+<p><strong>発売日:</strong> 発売日未定</p>
+<div style="clear: both;"></div>]]></description>
+            <link>https://www.amazon.co.jp/dp/4065425123/</link>
+            <guid isPermaLink="false">9784065425121</guid>
+            <pubDate>Thu, 18 Dec 2025 22:05:31 GMT</pubDate>
+            <isbn>9784065425121</isbn>
+            <isbn10>4065425123</isbn10>
+            <series>ブルーバックス</series>
+            <author>永野 裕之</author>
+            <publisher>講談社</publisher>
+        </item>
+        <item>
+            <title><![CDATA[がんで死なないための名言66]]></title>
+            <description><![CDATA[<p><strong>著者:</strong> 川口 知哉</p>
+<p><strong>出版社:</strong> 講談社</p>
+<p><strong>シリーズ:</strong> ブルーバックス</p>
+<p><strong>ISBN:</strong> 9784065426098</p>
+<p><strong>発売日:</strong> 発売日未定</p>
+<div style="clear: both;"></div>]]></description>
+            <link>https://www.amazon.co.jp/dp/406542609X/</link>
+            <guid isPermaLink="false">9784065426098</guid>
+            <pubDate>Thu, 18 Dec 2025 22:05:31 GMT</pubDate>
+            <isbn>9784065426098</isbn>
+            <isbn10>406542609X</isbn10>
+            <series>ブルーバックス</series>
+            <author>川口 知哉</author>
+            <publisher>講談社</publisher>
+        </item>
+        <item>
+            <title><![CDATA[本を読めなくなった人たち : コスパとテキストメディアをめぐる現在形]]></title>
+            <description><![CDATA[<p><strong>著者:</strong> 稲田豊史</p>
+<p><strong>出版社:</strong> 中央公論新社</p>
+<p><strong>シリーズ:</strong> 中公新書ラクレ</p>
+<p><strong>ISBN:</strong> 9784121508614</p>
+<p><strong>発売日:</strong> 発売日未定</p>
+<div style="clear: both;"></div>]]></description>
+            <link>https://www.amazon.co.jp/dp/4121508610/</link>
+            <guid isPermaLink="false">9784121508614</guid>
+            <pubDate>Thu, 18 Dec 2025 22:05:31 GMT</pubDate>
+            <isbn>9784121508614</isbn>
+            <isbn10>4121508610</isbn10>
+            <series>中公新書ラクレ</series>
+            <author>稲田豊史</author>
+            <publisher>中央公論新社</publisher>
+        </item>
         <item>
             <title><![CDATA[自治体は何のためにあるのか : 〈地域活性化〉を問い直す]]></title>
             <description><![CDATA[<p><strong>著者:</strong> 今井 照</p>
