@@ -1,0 +1,3225 @@
+{
+  "timestamp": "2025-12-18T16:22:30.020Z",
+  "totalShinshoBooks": 31947,
+  "totalUniqueLabels": 804,
+  "covered": [
+    {
+      "label": "中公新書",
+      "count": 2318
+    },
+    {
+      "label": "講談社現代新書",
+      "count": 2082
+    },
+    {
+      "label": "岩波新書",
+      "count": 1611
+    },
+    {
+      "label": "文春新書",
+      "count": 1380
+    },
+    {
+      "label": "光文社新書",
+      "count": 1132
+    },
+    {
+      "label": "集英社新書",
+      "count": 1090
+    },
+    {
+      "label": "PHP新書",
+      "count": 1082
+    },
+    {
+      "label": "新潮新書",
+      "count": 1064
+    },
+    {
+      "label": "平凡社新書",
+      "count": 919
+    },
+    {
+      "label": "ちくま新書",
+      "count": 801
+    },
+    {
+      "label": "中公新書ラクレ",
+      "count": 688
+    },
+    {
+      "label": "岩波新書 新赤版",
+      "count": 659
+    },
+    {
+      "label": "岩波ジュニア新書",
+      "count": 619
+    },
+    {
+      "label": "幻冬舎新書",
+      "count": 615
+    },
+    {
+      "label": "角川新書",
+      "count": 494
+    },
+    {
+      "label": "SB新書",
+      "count": 418
+    },
+    {
+      "label": "小学館新書",
+      "count": 318
+    },
+    {
+      "label": "ちくまプリマー新書",
+      "count": 280
+    },
+    {
+      "label": "ベスト新書",
+      "count": 271
+    },
+    {
+      "label": "中公新書,",
+      "count": 138
+    },
+    {
+      "label": "講談社現代新書,",
+      "count": 137
+    },
+    {
+      "label": "岩波新書, 黄-",
+      "count": 67
+    },
+    {
+      "label": "潮新書",
+      "count": 64
+    },
+    {
+      "label": "岩波新書, 黄版",
+      "count": 63
+    },
+    {
+      "label": "岩波新書, 青-",
+      "count": 47
+    },
+    {
+      "label": "岩波新書　青版",
+      "count": 33
+    },
+    {
+      "label": "PHP新書 = [PHP SHINSHO]",
+      "count": 22
+    },
+    {
+      "label": "集英社新書. ヴィジュアル版",
+      "count": 21
+    },
+    {
+      "label": "競馬ベスト新書",
+      "count": 20
+    },
+    {
+      "label": "集英社新書ヴィジュアル版",
+      "count": 18
+    },
+    {
+      "label": "岩波新書, 青版",
+      "count": 16
+    },
+    {
+      "label": "中公新書ラクレ = Chuko Shinsho La Clef",
+      "count": 15
+    },
+    {
+      "label": "岩波新書 青版",
+      "count": 13
+    },
+    {
+      "label": "岩波ジュニア新書 = [IWANAMI JUNIOR PAPERBACKS]",
+      "count": 13
+    },
+    {
+      "label": "岩波新書, 青版-",
+      "count": 12
+    },
+    {
+      "label": "岩波新書, 黄版-",
+      "count": 11
+    },
+    {
+      "label": "岩波新書. 評伝選",
+      "count": 10
+    },
+    {
+      "label": "岩波ジュニア新書,",
+      "count": 10
+    },
+    {
+      "label": "岩波新書の江戸時代",
+      "count": 9
+    },
+    {
+      "label": "岩波新書　黄版",
+      "count": 9
+    },
+    {
+      "label": "講談社現代新書. Jeunesse",
+      "count": 9
+    },
+    {
+      "label": "ベスト新書 = BEST SHINSHO",
+      "count": 9
+    },
+    {
+      "label": "岩波新書. シリーズ日本近現代史",
+      "count": 8
+    },
+    {
+      "label": "中公新書　：",
+      "count": 8
+    },
+    {
+      "label": "講談社現代新書　：",
+      "count": 5
+    },
+    {
+      "label": "講談社現代新書. 新書・江戸時代",
+      "count": 5
+    },
+    {
+      "label": "新書",
+      "count": 5
+    },
+    {
+      "label": "岩波新書　Ｃ",
+      "count": 4
+    },
+    {
+      "label": "岩波ジュニア新書. 事典シリーズ",
+      "count": 4
+    },
+    {
+      "label": "集英社新書ノンフィクション",
+      "count": 4
+    },
+    {
+      "label": "PHP新書. 人間学アカデミー",
+      "count": 4
+    },
+    {
+      "label": "岩波新書 C",
+      "count": 3
+    },
+    {
+      "label": "岩波新書　新赤版",
+      "count": 3
+    },
+    {
+      "label": "岩波ジュニア新書. 日本の歴史",
+      "count": 3
+    },
+    {
+      "label": "講談社現代新書. 新書アメリカ合衆国史",
+      "count": 3
+    },
+    {
+      "label": "講談社現代新書. 新書イスラームの世界史",
+      "count": 3
+    },
+    {
+      "label": "PHP新書. ユング心理学入門",
+      "count": 3
+    },
+    {
+      "label": "岩波新書　赤版",
+      "count": 2
+    },
+    {
+      "label": "岩波新書, 赤-",
+      "count": 2
+    },
+    {
+      "label": "岩波新書 赤版",
+      "count": 2
+    },
+    {
+      "label": "岩波新書　Ｄ",
+      "count": 2
+    },
+    {
+      "label": "岩波新書　Ｅ",
+      "count": 2
+    },
+    {
+      "label": "岩波新書　Ｇ",
+      "count": 2
+    },
+    {
+      "label": "岩波新書 黄版",
+      "count": 2
+    },
+    {
+      "label": "岩波新書. 別冊",
+      "count": 2
+    },
+    {
+      "label": "講談社＋α新書",
+      "count": 2
+    },
+    {
+      "label": "中公新書 :",
+      "count": 2
+    },
+    {
+      "label": "中公新書ラクレ. 新日本語の現場",
+      "count": 2
+    },
+    {
+      "label": "光文社新書. 千住博の美術の授業",
+      "count": 2
+    },
+    {
+      "label": "光文社新書. 禁じられた数字",
+      "count": 2
+    },
+    {
+      "label": "PHP新書. 幻想のグローバル資本主義",
+      "count": 2
+    },
+    {
+      "label": "PHP新書. 現代文明論",
+      "count": 2
+    },
+    {
+      "label": "PHP新書 = PHP SHINSHO",
+      "count": 2
+    },
+    {
+      "label": "岩波新書, 赤版4,",
+      "count": 1
+    },
+    {
+      "label": "岩波新書, 赤",
+      "count": 1
+    },
+    {
+      "label": "岩波新書　R１３",
+      "count": 1
+    },
+    {
+      "label": "岩波新書, 赤版-",
+      "count": 1
+    },
+    {
+      "label": "岩波新書, 赤版 75, R-",
+      "count": 1
+    },
+    {
+      "label": "岩波新書, 赤版 22,",
+      "count": 1
+    },
+    {
+      "label": "岩波新書, 赤版 91(R28)",
+      "count": 1
+    },
+    {
+      "label": "岩波新書, 34, R34, 赤版",
+      "count": 1
+    },
+    {
+      "label": "岩波新書, [赤版]",
+      "count": 1
+    },
+    {
+      "label": "岩波新書, 赤-97, R",
+      "count": 1
+    },
+    {
+      "label": "岩波新書　Ａ",
+      "count": 1
+    },
+    {
+      "label": "岩波新書, 青-940, A",
+      "count": 1
+    },
+    {
+      "label": "岩波新書　青版 : ６５９",
+      "count": 1
+    },
+    {
+      "label": "岩波新書, 青-614, B",
+      "count": 1
+    },
+    {
+      "label": "岩波新書, 青-449, B",
+      "count": 1
+    },
+    {
+      "label": "岩波新書 B",
+      "count": 1
+    },
+    {
+      "label": "岩波新書, 青-797, B",
+      "count": 1
+    },
+    {
+      "label": "岩波新書青版",
+      "count": 1
+    },
+    {
+      "label": "岩波新書, 青-263, C",
+      "count": 1
+    },
+    {
+      "label": "岩波新書, 青-602(C22)",
+      "count": 1
+    },
+    {
+      "label": "岩波新書, 青-621, C",
+      "count": 1
+    },
+    {
+      "label": "岩波新書, 青版-747, C",
+      "count": 1
+    },
+    {
+      "label": "岩波新書　青版　Ｃ１３５",
+      "count": 1
+    },
+    {
+      "label": "岩波新書, 青-601,C",
+      "count": 1
+    },
+    {
+      "label": "岩波新書, 青-351, C",
+      "count": 1
+    },
+    {
+      "label": "岩波新書, 青版 904(C156)",
+      "count": 1
+    },
+    {
+      "label": "岩波新書, 青版 909, C",
+      "count": 1
+    },
+    {
+      "label": "岩波新書, 青-800, D",
+      "count": 1
+    },
+    {
+      "label": "岩波新書, 青版-742, D",
+      "count": 1
+    },
+    {
+      "label": "岩波新書, 青-934, D",
+      "count": 1
+    },
+    {
+      "label": "岩波新書, 青版-65, D",
+      "count": 1
+    },
+    {
+      "label": "岩波新書, 青-598, D",
+      "count": 1
+    },
+    {
+      "label": "岩波新書　青版３２４",
+      "count": 1
+    },
+    {
+      "label": "岩波新書, 青-889, D",
+      "count": 1
+    },
+    {
+      "label": "岩波新書, 青版-380, D",
+      "count": 1
+    },
+    {
+      "label": "岩波新書　青版 : ６８０",
+      "count": 1
+    },
+    {
+      "label": "岩波新書, 青-933, D",
+      "count": 1
+    },
+    {
+      "label": "岩波新書 : Ｅ２８",
+      "count": 1
+    },
+    {
+      "label": "岩波新書, 青-520, E",
+      "count": 1
+    },
+    {
+      "label": "岩波新書, 青版-736, E",
+      "count": 1
+    },
+    {
+      "label": "岩波新書　青ー７７５ :",
+      "count": 1
+    },
+    {
+      "label": "岩波新書 F",
+      "count": 1
+    },
+    {
+      "label": "岩波新書, 青版 774, F",
+      "count": 1
+    },
+    {
+      "label": "岩波新書, 青版-76(F70)",
+      "count": 1
+    },
+    {
+      "label": "岩波新書, 青-504, F",
+      "count": 1
+    },
+    {
+      "label": "岩波新書　青版 : ６８９",
+      "count": 1
+    },
+    {
+      "label": "岩波新書, 青-445, F",
+      "count": 1
+    },
+    {
+      "label": "岩波新書, 青版 96, G",
+      "count": 1
+    },
+    {
+      "label": "岩波新書, 青版 822, G",
+      "count": 1
+    },
+    {
+      "label": "岩波新書, 青-585,G",
+      "count": 1
+    },
+    {
+      "label": "岩波新書, 青-549, G",
+      "count": 1
+    },
+    {
+      "label": "岩波新書, 青版 245, G",
+      "count": 1
+    },
+    {
+      "label": "岩波新書, 青-386, G",
+      "count": 1
+    },
+    {
+      "label": "岩波新書, 青-477, G",
+      "count": 1
+    },
+    {
+      "label": "岩波新書, 青-965, G",
+      "count": 1
+    },
+    {
+      "label": "岩波新書 黄版 :",
+      "count": 1
+    },
+    {
+      "label": "岩波新書　黄版１５１",
+      "count": 1
+    },
+    {
+      "label": "岩波新書　黄版　：　１９９",
+      "count": 1
+    },
+    {
+      "label": "岩波新書, 黄",
+      "count": 1
+    },
+    {
+      "label": "岩波新書　黄版　３５７",
+      "count": 1
+    },
+    {
+      "label": "岩波新書 : ５１",
+      "count": 1
+    },
+    {
+      "label": "岩波新書　新赤版 : ２０３９",
+      "count": 1
+    },
+    {
+      "label": "岩波新書　新赤版 : ２０５１",
+      "count": 1
+    },
+    {
+      "label": "岩波ジュニア新書 : １６",
+      "count": 1
+    },
+    {
+      "label": "岩波ジュニア新書　１１１",
+      "count": 1
+    },
+    {
+      "label": "岩波ジュニア新書 : 別冊",
+      "count": 1
+    },
+    {
+      "label": "角川新書　：　K-",
+      "count": 1
+    },
+    {
+      "label": "講談社現代新書 : ２２８",
+      "count": 1
+    },
+    {
+      "label": "講談社現代新書　２７５",
+      "count": 1
+    },
+    {
+      "label": "講談社現代新書, 278 . 論集・日本文化 / 梅棹忠夫, 多田道太郎編||ロンシュウ ニホン ブンカ",
+      "count": 1
+    },
+    {
+      "label": "講談社現代新書, 280 . 論集・日本文化 / 梅棹忠夫, 多田道太郎編||ロンシュウ ニホン ブンカ",
+      "count": 1
+    },
+    {
+      "label": "講談社現代新書, 283 . 論集・日本文化 / 梅棹忠夫, 多田道太郎編||ロンシュウ ニホン ブンカ",
+      "count": 1
+    },
+    {
+      "label": "講談社現代新書　３０６",
+      "count": 1
+    },
+    {
+      "label": "講談社現代新書, 314 . 新書西洋史||シンショ セイヨウシ",
+      "count": 1
+    },
+    {
+      "label": "講談社現代新書, 317 . 新書西洋史||シンショ セイヨウシ",
+      "count": 1
+    },
+    {
+      "label": "講談社現代新書 : ３３０",
+      "count": 1
+    },
+    {
+      "label": "講談社現代新書, 392 . 日本の古典||ニホン ノ コテン",
+      "count": 1
+    },
+    {
+      "label": "講談社現代新書, 393 . 日本の古典||ニホン ノ コテン",
+      "count": 1
+    },
+    {
+      "label": "講談社現代新書, 394 . 日本の古典||ニホン ノ コテン",
+      "count": 1
+    },
+    {
+      "label": "講談社現代新書, 415 . 江戸三百年||エド サンビャクネン",
+      "count": 1
+    },
+    {
+      "label": "講談社現代新書, 424 . 新書日本史||シンショ ニホンシ",
+      "count": 1
+    },
+    {
+      "label": "講談社現代新書, 425 . 新書日本史||シンショ ニホンシ",
+      "count": 1
+    },
+    {
+      "label": "講談社現代新書, 426 . 新書日本史||シンショ  ニホンシ",
+      "count": 1
+    },
+    {
+      "label": "新書東洋史 : 講談社現代新書 : ６",
+      "count": 1
+    },
+    {
+      "label": "講談社現代新書 : ４５８",
+      "count": 1
+    },
+    {
+      "label": "講談社現代新書　：　４６２",
+      "count": 1
+    },
+    {
+      "label": "講談社現代新書 : ４８９",
+      "count": 1
+    },
+    {
+      "label": "講談社現代新書　：　５０４",
+      "count": 1
+    },
+    {
+      "label": "講談社現代新書　：　５４２",
+      "count": 1
+    },
+    {
+      "label": "講談社現代新書　　　　　　　　　　　　　　　　　　５８８",
+      "count": 1
+    },
+    {
+      "label": "講談社現代新書５９０",
+      "count": 1
+    },
+    {
+      "label": "講談社現代新書. 動物化するポストモダン",
+      "count": 1
+    },
+    {
+      "label": "集英社新書　：",
+      "count": 1
+    },
+    {
+      "label": "中公新書　１９",
+      "count": 1
+    },
+    {
+      "label": "中公新書 : ２７",
+      "count": 1
+    },
+    {
+      "label": "中公新書 : ４０",
+      "count": 1
+    },
+    {
+      "label": "中公新書　６１",
+      "count": 1
+    },
+    {
+      "label": "中公新書 : ８４",
+      "count": 1
+    },
+    {
+      "label": "中公新書　１０４",
+      "count": 1
+    },
+    {
+      "label": "中公新書　１１０",
+      "count": 1
+    },
+    {
+      "label": "中公新書 : １１３",
+      "count": 1
+    },
+    {
+      "label": "中公新書 : １５４",
+      "count": 1
+    },
+    {
+      "label": "中公新書　１９０",
+      "count": 1
+    },
+    {
+      "label": "中公新書１９６",
+      "count": 1
+    },
+    {
+      "label": "中公新書　２０８",
+      "count": 1
+    },
+    {
+      "label": "中公新書　２１２",
+      "count": 1
+    },
+    {
+      "label": "中公新書　２３０",
+      "count": 1
+    },
+    {
+      "label": "中公新書　２３３",
+      "count": 1
+    },
+    {
+      "label": "中公新書　３８０",
+      "count": 1
+    },
+    {
+      "label": "中公新書　３９０",
+      "count": 1
+    },
+    {
+      "label": "中公新書４００",
+      "count": 1
+    },
+    {
+      "label": "中公新書, 438 . 照葉樹林文化||ショウヨウ ジュリン ブンカ",
+      "count": 1
+    },
+    {
+      "label": "中公新書４５４",
+      "count": 1
+    },
+    {
+      "label": "中公新書　４８１",
+      "count": 1
+    },
+    {
+      "label": "中公新書 : ５１８",
+      "count": 1
+    },
+    {
+      "label": "中公新書 : ５６８",
+      "count": 1
+    },
+    {
+      "label": "中公新書 : ５７１",
+      "count": 1
+    },
+    {
+      "label": "中公新書 : ６０９",
+      "count": 1
+    },
+    {
+      "label": "中公新書. 四季のうた",
+      "count": 1
+    },
+    {
+      "label": "中公新書ワイド版",
+      "count": 1
+    },
+    {
+      "label": "中公新書ラクレ : カラー版",
+      "count": 1
+    },
+    {
+      "label": "中公新書ラクレ. こどもの詩",
+      "count": 1
+    },
+    {
+      "label": "中公新書. 維新前夜の群像",
+      "count": 1
+    },
+    {
+      "label": "文春新書. 翻訳夜話",
+      "count": 1
+    },
+    {
+      "label": "文春新書 : １４２７",
+      "count": 1
+    },
+    {
+      "label": "文春新書 : １４５１",
+      "count": 1
+    },
+    {
+      "label": "幻冬舎新書ゴールド",
+      "count": 1
+    },
+    {
+      "label": "幻冬舎新書 : し－１５－２",
+      "count": 1
+    }
+  ],
+  "notCovered": [
+    {
+      "label": "朝日新書",
+      "count": 871
+    },
+    {
+      "label": "講談社+α新書",
+      "count": 849
+    },
+    {
+      "label": "祥伝社新書",
+      "count": 537
+    },
+    {
+      "label": "扶桑社新書",
+      "count": 426
+    },
+    {
+      "label": "宝島社新書",
+      "count": 392
+    },
+    {
+      "label": "NHK出版新書",
+      "count": 384
+    },
+    {
+      "label": "サイエンス・アイ新書",
+      "count": 366
+    },
+    {
+      "label": "星海社新書",
+      "count": 356
+    },
+    {
+      "label": "PHPビジネス新書",
+      "count": 333
+    },
+    {
+      "label": "青春新書INTELLIGENCE",
+      "count": 321
+    },
+    {
+      "label": "ポプラ新書",
+      "count": 273
+    },
+    {
+      "label": "新書館ディアプラス文庫",
+      "count": 256
+    },
+    {
+      "label": "アスキー新書",
+      "count": 245
+    },
+    {
+      "label": "青春新書PLAY BOOKS",
+      "count": 244
+    },
+    {
+      "label": "ワニブックス|PLUS|新書",
+      "count": 238
+    },
+    {
+      "label": "じっぴコンパクト新書",
+      "count": 224
+    },
+    {
+      "label": "Kawade夢新書",
+      "count": 220
+    },
+    {
+      "label": "生活人新書",
+      "count": 200
+    },
+    {
+      "label": "角川SSC新書",
+      "count": 174
+    },
+    {
+      "label": "交通新聞社新書",
+      "count": 162
+    },
+    {
+      "label": "新書館ウィングス文庫",
+      "count": 150
+    },
+    {
+      "label": "新書y",
+      "count": 142
+    },
+    {
+      "label": "インターナショナル新書",
+      "count": 139
+    },
+    {
+      "label": "幻冬舎ルネッサンス新書",
+      "count": 136
+    },
+    {
+      "label": "有斐閣新書",
+      "count": 135
+    },
+    {
+      "label": "イースト新書",
+      "count": 128
+    },
+    {
+      "label": "経営者新書",
+      "count": 120
+    },
+    {
+      "label": "小学館101新書",
+      "count": 113
+    },
+    {
+      "label": "歴史群像新書",
+      "count": 112
+    },
+    {
+      "label": "マイナビ新書",
+      "count": 111
+    },
+    {
+      "label": "歴史新書",
+      "count": 102
+    },
+    {
+      "label": "河出新書",
+      "count": 95
+    },
+    {
+      "label": "イースト新書Q",
+      "count": 92
+    },
+    {
+      "label": "教育社新書. 産業界シリーズ",
+      "count": 91
+    },
+    {
+      "label": "ソフトバンク新書",
+      "count": 82
+    },
+    {
+      "label": "メディアファクトリー新書",
+      "count": 78
+    },
+    {
+      "label": "双葉新書",
+      "count": 78
+    },
+    {
+      "label": "ロング新書",
+      "count": 78
+    },
+    {
+      "label": "新書館ウィングス文庫. Wings novel",
+      "count": 73
+    },
+    {
+      "label": "青春新書インテリジェンス",
+      "count": 71
+    },
+    {
+      "label": "ヤマケイ新書",
+      "count": 70
+    },
+    {
+      "label": "岩波アクティブ新書",
+      "count": 69
+    },
+    {
+      "label": "ハヤカワ新書",
+      "count": 69
+    },
+    {
+      "label": "ＳＢ新書",
+      "count": 67
+    },
+    {
+      "label": "KAWADE夢新書",
+      "count": 61
+    },
+    {
+      "label": "ニュートン新書",
+      "count": 60
+    },
+    {
+      "label": "大学JUKEN新書",
+      "count": 59
+    },
+    {
+      "label": "精選復刻紀伊国屋新書",
+      "count": 58
+    },
+    {
+      "label": "廣済堂新書",
+      "count": 58
+    },
+    {
+      "label": "新書館ウィングス文庫. Wings comics bunko",
+      "count": 58
+    },
+    {
+      "label": "新典社新書",
+      "count": 58
+    },
+    {
+      "label": "新日本新書",
+      "count": 56
+    },
+    {
+      "label": "三一新書",
+      "count": 54
+    },
+    {
+      "label": "PHPサイエンス・ワールド新書",
+      "count": 54
+    },
+    {
+      "label": "入門新書. 時事問題解説",
+      "count": 53
+    },
+    {
+      "label": "歴史新書y",
+      "count": 53
+    },
+    {
+      "label": "ニュートン超図解新書",
+      "count": 52
+    },
+    {
+      "label": "MdN新書",
+      "count": 50
+    },
+    {
+      "label": "有隣新書",
+      "count": 46
+    },
+    {
+      "label": "サンガ新書",
+      "count": 45
+    },
+    {
+      "label": "中国古典新書,",
+      "count": 44
+    },
+    {
+      "label": "竹書房新書",
+      "count": 39
+    },
+    {
+      "label": "[ロング新書]",
+      "count": 38
+    },
+    {
+      "label": "淡交新書",
+      "count": 37
+    },
+    {
+      "label": "青春新書",
+      "count": 36
+    },
+    {
+      "label": "マイコミ新書",
+      "count": 35
+    },
+    {
+      "label": "新書漢文大系",
+      "count": 33
+    },
+    {
+      "label": "エネルギーフォーラム新書",
+      "count": 33
+    },
+    {
+      "label": "詩想社新書",
+      "count": 32
+    },
+    {
+      "label": "早稲田新書",
+      "count": 32
+    },
+    {
+      "label": "創成社新書",
+      "count": 32
+    },
+    {
+      "label": "青春新書プレイブックス",
+      "count": 31
+    },
+    {
+      "label": "長崎新聞新書",
+      "count": 29
+    },
+    {
+      "label": "学研新書",
+      "count": 28
+    },
+    {
+      "label": "健康人新書",
+      "count": 27
+    },
+    {
+      "label": "有斐閣新書, C-",
+      "count": 27
+    },
+    {
+      "label": "ワニブックスPLUS新書",
+      "count": 26
+    },
+    {
+      "label": "MC新書",
+      "count": 26
+    },
+    {
+      "label": "小学館101ビジュアル新書",
+      "count": 25
+    },
+    {
+      "label": "経済界新書",
+      "count": 25
+    },
+    {
+      "label": "マガジンハウス新書",
+      "count": 24
+    },
+    {
+      "label": "J新書",
+      "count": 24
+    },
+    {
+      "label": "PHPエル新書",
+      "count": 23
+    },
+    {
+      "label": "近代文芸社新書",
+      "count": 23
+    },
+    {
+      "label": "ワニブックス〈plus〉新書",
+      "count": 23
+    },
+    {
+      "label": "TTS新書",
+      "count": 23
+    },
+    {
+      "label": "創批新書,",
+      "count": 23
+    },
+    {
+      "label": "SBビジュアル新書",
+      "count": 22
+    },
+    {
+      "label": "大学合格新書",
+      "count": 21
+    },
+    {
+      "label": "アルク新書シリーズ",
+      "count": 21
+    },
+    {
+      "label": "朝日新書 = Asahi Shinsho",
+      "count": 20
+    },
+    {
+      "label": "新教新書",
+      "count": 20
+    },
+    {
+      "label": "サクラ新書",
+      "count": 20
+    },
+    {
+      "label": "コア新書",
+      "count": 20
+    },
+    {
+      "label": "歴史群像新書 = Rekishi Gunzo Books",
+      "count": 19
+    },
+    {
+      "label": "技評SE新書",
+      "count": 19
+    },
+    {
+      "label": "中国古典新書続編",
+      "count": 19
+    },
+    {
+      "label": "学芸みらい教育新書",
+      "count": 19
+    },
+    {
+      "label": "知の新書",
+      "count": 19
+    },
+    {
+      "label": "信山社新書",
+      "count": 18
+    },
+    {
+      "label": "講談社ことばの新書",
+      "count": 17
+    },
+    {
+      "label": "日文新書",
+      "count": 17
+    },
+    {
+      "label": "PHPビジネス新書 = PHP Business Shinsho",
+      "count": 17
+    },
+    {
+      "label": "ドン・ボスコ新書",
+      "count": 17
+    },
+    {
+      "label": "ふたばらいふ新書",
+      "count": 16
+    },
+    {
+      "label": "나남新書,",
+      "count": 16
+    },
+    {
+      "label": "アフタヌーン新書",
+      "count": 15
+    },
+    {
+      "label": "ハヤカワ新書juice",
+      "count": 15
+    },
+    {
+      "label": "ベースボール・マガジン社新書",
+      "count": 15
+    },
+    {
+      "label": "評言社MIL新書",
+      "count": 15
+    },
+    {
+      "label": "北方新書",
+      "count": 15
+    },
+    {
+      "label": "教育新書",
+      "count": 14
+    },
+    {
+      "label": "祥伝社新書 = SHODENSHA SHINSHO",
+      "count": 14
+    },
+    {
+      "label": "ワニのnew新書",
+      "count": 14
+    },
+    {
+      "label": "有斐閣新書, B-",
+      "count": 14
+    },
+    {
+      "label": "下野新聞新書",
+      "count": 14
+    },
+    {
+      "label": "ボーダー新書",
+      "count": 14
+    },
+    {
+      "label": "大学juken新書",
+      "count": 13
+    },
+    {
+      "label": "教育社歴史新書, . 西洋史||セイヨウシ",
+      "count": 13
+    },
+    {
+      "label": "三一新書,",
+      "count": 13
+    },
+    {
+      "label": "サイエンス・アイ新書 = science・i",
+      "count": 13
+    },
+    {
+      "label": "へるす出版新書",
+      "count": 13
+    },
+    {
+      "label": "さきがけ新書",
+      "count": 13
+    },
+    {
+      "label": "熊日新書",
+      "count": 13
+    },
+    {
+      "label": "パルコ美術新書",
+      "count": 13
+    },
+    {
+      "label": "教職課程新書",
+      "count": 12
+    },
+    {
+      "label": "リベラル新書",
+      "count": 12
+    },
+    {
+      "label": "連合新書",
+      "count": 12
+    },
+    {
+      "label": "中経マイウェイ新書",
+      "count": 12
+    },
+    {
+      "label": "リュウ・ブックスアステ新書",
+      "count": 11
+    },
+    {
+      "label": "近代文藝社新書",
+      "count": 11
+    },
+    {
+      "label": "医療科学新書",
+      "count": 11
+    },
+    {
+      "label": "ソトコト新書",
+      "count": 11
+    },
+    {
+      "label": "ミュージアム新書",
+      "count": 11
+    },
+    {
+      "label": "中国古典新書",
+      "count": 11
+    },
+    {
+      "label": "教育社歴史新書",
+      "count": 10
+    },
+    {
+      "label": "アーユスの森新書",
+      "count": 10
+    },
+    {
+      "label": "黄金律新書",
+      "count": 10
+    },
+    {
+      "label": "PHPビジネス新書. 松下幸之助ライブラリー",
+      "count": 10
+    },
+    {
+      "label": "扶桑社ＢＯＯＫＳ新書",
+      "count": 10
+    },
+    {
+      "label": "経法ビジネス新書",
+      "count": 10
+    },
+    {
+      "label": "情況新書",
+      "count": 10
+    },
+    {
+      "label": "競馬王新書EX",
+      "count": 10
+    },
+    {
+      "label": "ガイドワークス新書",
+      "count": 10
+    },
+    {
+      "label": "ヨベル新書",
+      "count": 10
+    },
+    {
+      "label": "清水新書",
+      "count": 9
+    },
+    {
+      "label": "帝京新書",
+      "count": 9
+    },
+    {
+      "label": "有斐閣新書, A-",
+      "count": 9
+    },
+    {
+      "label": "部落解放新書",
+      "count": 9
+    },
+    {
+      "label": "中災防新書",
+      "count": 9
+    },
+    {
+      "label": "時鐘舎新書",
+      "count": 9
+    },
+    {
+      "label": "空気調和・衛生工学会新書",
+      "count": 9
+    },
+    {
+      "label": "ワニブックスＰＬＵＳ新書",
+      "count": 9
+    },
+    {
+      "label": "アトラス地域文化新書",
+      "count": 9
+    },
+    {
+      "label": "諏訪書房新書",
+      "count": 9
+    },
+    {
+      "label": "競馬道OnLine新書",
+      "count": 9
+    },
+    {
+      "label": "星海社新書 = SEIKAISHA SHINSHO",
+      "count": 8
+    },
+    {
+      "label": "主婦の友新書",
+      "count": 8
+    },
+    {
+      "label": "教育社新書. 原本現代訳",
+      "count": 8
+    },
+    {
+      "label": "幻冬舎エデュケーション新書",
+      "count": 8
+    },
+    {
+      "label": "新書館ウィングス文庫. Wings comics bunko. 「三番町萩原屋の美人」選集",
+      "count": 8
+    },
+    {
+      "label": "パンドラ新書",
+      "count": 8
+    },
+    {
+      "label": "太田新書",
+      "count": 8
+    },
+    {
+      "label": "静新新書",
+      "count": 8
+    },
+    {
+      "label": "春秋新書",
+      "count": 8
+    },
+    {
+      "label": "競馬王新書",
+      "count": 8
+    },
+    {
+      "label": "かもめ舎川柳新書",
+      "count": 8
+    },
+    {
+      "label": "買いたい新書",
+      "count": 8
+    },
+    {
+      "label": "ずいそうしゃ新書",
+      "count": 8
+    },
+    {
+      "label": "詩歌句新書",
+      "count": 8
+    },
+    {
+      "label": "IDP新書",
+      "count": 8
+    },
+    {
+      "label": "メトロポリタン新書",
+      "count": 8
+    },
+    {
+      "label": "五木寛之こころの新書",
+      "count": 7
+    },
+    {
+      "label": "こどもスーパー新書",
+      "count": 7
+    },
+    {
+      "label": "小学館よしもと新書",
+      "count": 7
+    },
+    {
+      "label": "上智大学新書",
+      "count": 7
+    },
+    {
+      "label": "新書館ウィングス文庫. Wings comics bunko. パーム",
+      "count": 7
+    },
+    {
+      "label": "松前重義著作集（全10巻/東海新書）",
+      "count": 7
+    },
+    {
+      "label": "ゴルフダイジェスト新書",
+      "count": 7
+    },
+    {
+      "label": "きずな新書",
+      "count": 7
+    },
+    {
+      "label": "たちばなビジネス新書",
+      "count": 7
+    },
+    {
+      "label": "北日本新聞社新書",
+      "count": 7
+    },
+    {
+      "label": "静岡学術出版教養新書",
+      "count": 7
+    },
+    {
+      "label": "サッカー小僧新書EX",
+      "count": 7
+    },
+    {
+      "label": "新報新書",
+      "count": 7
+    },
+    {
+      "label": "大空ポケット新書",
+      "count": 7
+    },
+    {
+      "label": "リーダーズノート新書",
+      "count": 7
+    },
+    {
+      "label": "モナド新書",
+      "count": 7
+    },
+    {
+      "label": "英検ポケット問題新書",
+      "count": 6
+    },
+    {
+      "label": "新書館ウィングス文庫. Fatal error",
+      "count": 6
+    },
+    {
+      "label": "新日本新書,",
+      "count": 6
+    },
+    {
+      "label": "日経新書",
+      "count": 6
+    },
+    {
+      "label": "PHPビジネス新書ビジュアル",
+      "count": 6
+    },
+    {
+      "label": "有斐閣新書, D-",
+      "count": 6
+    },
+    {
+      "label": "ソニー・マガジンズ新書",
+      "count": 6
+    },
+    {
+      "label": "法と哲学新書",
+      "count": 6
+    },
+    {
+      "label": "晋遊舎新書",
+      "count": 6
+    },
+    {
+      "label": "学振新書",
+      "count": 6
+    },
+    {
+      "label": "不昧堂新書",
+      "count": 6
+    },
+    {
+      "label": "香り新書",
+      "count": 6
+    },
+    {
+      "label": "中国古典新書続編,",
+      "count": 6
+    },
+    {
+      "label": "VOICE新書",
+      "count": 6
+    },
+    {
+      "label": "かや書房ワイド新書",
+      "count": 6
+    },
+    {
+      "label": "学研新書 = [Gakken Shinsho]",
+      "count": 5
+    },
+    {
+      "label": "ファミリー新書",
+      "count": 5
+    },
+    {
+      "label": "新書館ウィングス文庫. シャーロキアン・クロニクル",
+      "count": 5
+    },
+    {
+      "label": "近代消防新書",
+      "count": 5
+    },
+    {
+      "label": "南雲堂新書スペシャル",
+      "count": 5
+    },
+    {
+      "label": "ひかりのくに保育ポケット新書",
+      "count": 5
+    },
+    {
+      "label": "有斐閣新書,",
+      "count": 5
+    },
+    {
+      "label": "京都書房ことのは新書",
+      "count": 5
+    },
+    {
+      "label": "Screen新書",
+      "count": 5
+    },
+    {
+      "label": "SCREEN新書",
+      "count": 5
+    },
+    {
+      "label": "活学新書",
+      "count": 5
+    },
+    {
+      "label": "塙新書,",
+      "count": 5
+    },
+    {
+      "label": "塙新書",
+      "count": 5
+    },
+    {
+      "label": "万葉新書",
+      "count": 5
+    },
+    {
+      "label": "落語ファン倶楽部新書",
+      "count": 5
+    },
+    {
+      "label": "Color新書y",
+      "count": 5
+    },
+    {
+      "label": "晋遊舎ブラック新書",
+      "count": 5
+    },
+    {
+      "label": "マガジンランド新書",
+      "count": 5
+    },
+    {
+      "label": "Hanada新書",
+      "count": 5
+    },
+    {
+      "label": "ドン・ボスコ新書. カトリック・サプリ",
+      "count": 5
+    },
+    {
+      "label": "貿易実務新書",
+      "count": 5
+    },
+    {
+      "label": "労新新書",
+      "count": 5
+    },
+    {
+      "label": "サンガ新書. 役立つ初期仏教法話",
+      "count": 5
+    },
+    {
+      "label": "電気新聞ブックス. エネルギー新書",
+      "count": 5
+    },
+    {
+      "label": "YOBEL新書",
+      "count": 5
+    },
+    {
+      "label": "タスクIT新書",
+      "count": 5
+    },
+    {
+      "label": "漢検新書. 知っ得ことば術シリーズ",
+      "count": 5
+    },
+    {
+      "label": "[大学JUKEN新書]",
+      "count": 4
+    },
+    {
+      "label": "競馬道OnLine Neo新書",
+      "count": 4
+    },
+    {
+      "label": "教育社歴史新書, . 日本史||ニホンシ",
+      "count": 4
+    },
+    {
+      "label": "教育社歴史新書, 日本史",
+      "count": 4
+    },
+    {
+      "label": "国土新書,",
+      "count": 4
+    },
+    {
+      "label": "新書館ウィングス文庫. Wings comics bunko. あとり硅子短篇集",
+      "count": 4
+    },
+    {
+      "label": "新書館ウィングス文庫. Wings comics bunko. 鬼外カルテ",
+      "count": 4
+    },
+    {
+      "label": "新書館ディアプラス文庫. サンダー&ライトニング",
+      "count": 4
+    },
+    {
+      "label": "新書館ウィングス文庫. Wings novel. 屋上の暇人ども",
+      "count": 4
+    },
+    {
+      "label": "新書館ウィングス文庫 = WINGS BUNKO",
+      "count": 4
+    },
+    {
+      "label": "菁柿堂新書",
+      "count": 4
+    },
+    {
+      "label": "PHPサイエンス・ワールド新書 = PHP Science World",
+      "count": 4
+    },
+    {
+      "label": "ワニの新書. Den Fujitaの商法",
+      "count": 4
+    },
+    {
+      "label": "勉誠新書",
+      "count": 4
+    },
+    {
+      "label": "オークラNEXT新書",
+      "count": 4
+    },
+    {
+      "label": "サンエイ新書",
+      "count": 4
+    },
+    {
+      "label": "道友社きずな新書",
+      "count": 4
+    },
+    {
+      "label": "はなわ新書",
+      "count": 4
+    },
+    {
+      "label": "桂新書",
+      "count": 4
+    },
+    {
+      "label": "心の医学新書",
+      "count": 4
+    },
+    {
+      "label": "中国古典新書 新装版",
+      "count": 4
+    },
+    {
+      "label": "アルソス新書",
+      "count": 4
+    },
+    {
+      "label": "[歴史群像新書]",
+      "count": 3
+    },
+    {
+      "label": "新書企画室単行本",
+      "count": 3
+    },
+    {
+      "label": "明治図書新書,",
+      "count": 3
+    },
+    {
+      "label": "夕日新書",
+      "count": 3
+    },
+    {
+      "label": "ゲーテビジネス新書 = GOETHE Business Book",
+      "count": 3
+    },
+    {
+      "label": "ゲーテビジネス新書",
+      "count": 3
+    },
+    {
+      "label": "新書館ウィングス文庫. Wings comics bunko. 晴天なり。",
+      "count": 3
+    },
+    {
+      "label": "新書館ウィングス文庫. 月光界秘譚",
+      "count": 3
+    },
+    {
+      "label": "青春新書intelligence",
+      "count": 3
+    },
+    {
+      "label": "クリピュア新書",
+      "count": 3
+    },
+    {
+      "label": "緑新書",
+      "count": 3
+    },
+    {
+      "label": "ちくまプリマ―新書",
+      "count": 3
+    },
+    {
+      "label": "南雲堂新書",
+      "count": 3
+    },
+    {
+      "label": "EM新書,",
+      "count": 3
+    },
+    {
+      "label": "レモン新書",
+      "count": 3
+    },
+    {
+      "label": "通勤新書",
+      "count": 3
+    },
+    {
+      "label": "道友社新書",
+      "count": 3
+    },
+    {
+      "label": "同文新書",
+      "count": 3
+    },
+    {
+      "label": "はなわ新書. 美夫君志リブレ",
+      "count": 3
+    },
+    {
+      "label": "アート新書アルテ",
+      "count": 3
+    },
+    {
+      "label": "Mycom新書",
+      "count": 3
+    },
+    {
+      "label": "薬事日報新書",
+      "count": 3
+    },
+    {
+      "label": "石炭袋新書 : 詩論・芸術論",
+      "count": 3
+    },
+    {
+      "label": "さだるま新書",
+      "count": 3
+    },
+    {
+      "label": "北海道ふるさと新書",
+      "count": 3
+    },
+    {
+      "label": "樹福新書",
+      "count": 3
+    },
+    {
+      "label": "洋販新書",
+      "count": 3
+    },
+    {
+      "label": "LSC新書",
+      "count": 3
+    },
+    {
+      "label": "アグネ承風社新書",
+      "count": 3
+    },
+    {
+      "label": "寺子屋新書",
+      "count": 3
+    },
+    {
+      "label": "Ｊ新書",
+      "count": 3
+    },
+    {
+      "label": "ライフデザインブックス新書",
+      "count": 3
+    },
+    {
+      "label": "西川徹郎文學館新書",
+      "count": 3
+    },
+    {
+      "label": "かたくら書店新書,",
+      "count": 3
+    },
+    {
+      "label": "しまふくろう新書",
+      "count": 3
+    },
+    {
+      "label": "フライの雑誌社新書",
+      "count": 3
+    },
+    {
+      "label": "絶版新書",
+      "count": 3
+    },
+    {
+      "label": "오늘의 思想新書,",
+      "count": 3
+    },
+    {
+      "label": "島嶼新書",
+      "count": 3
+    },
+    {
+      "label": "学研ビジュアル新書",
+      "count": 2
+    },
+    {
+      "label": "中公PC新書",
+      "count": 2
+    },
+    {
+      "label": "ＮＨＫ出版新書",
+      "count": 2
+    },
+    {
+      "label": "シリーズ・現代家庭教育新書,",
+      "count": 2
+    },
+    {
+      "label": "シリーズ・現代家庭教育新書",
+      "count": 2
+    },
+    {
+      "label": "教育社歴史新書．西洋史",
+      "count": 2
+    },
+    {
+      "label": "交通新聞社新書 = [Kotsu shimbunsha Shinsho]",
+      "count": 2
+    },
+    {
+      "label": "新書館エトワールコミックス",
+      "count": 2
+    },
+    {
+      "label": "新書館ウィングス文庫. WINGS COMICS BUNKO",
+      "count": 2
+    },
+    {
+      "label": "新書館ディアプラス文庫. Mysterious dam!",
+      "count": 2
+    },
+    {
+      "label": "新書館ウィングス文庫. Wings novel. Fatal error",
+      "count": 2
+    },
+    {
+      "label": "じっぴコンパクト新書 = JIPPI Compact",
+      "count": 2
+    },
+    {
+      "label": "青春新書intelligence, PI-",
+      "count": 2
+    },
+    {
+      "label": "創元新書",
+      "count": 2
+    },
+    {
+      "label": "V2新書",
+      "count": 2
+    },
+    {
+      "label": "VNC新書",
+      "count": 2
+    },
+    {
+      "label": "東海新書",
+      "count": 2
+    },
+    {
+      "label": "医学教養新書",
+      "count": 2
+    },
+    {
+      "label": "日経新書,",
+      "count": 2
+    },
+    {
+      "label": "ひかりのくに保育新書",
+      "count": 2
+    },
+    {
+      "label": "スポーツ新書",
+      "count": 2
+    },
+    {
+      "label": "勉誠新書. 文章構成基礎から完成",
+      "count": 2
+    },
+    {
+      "label": "オレンジ世代新書",
+      "count": 2
+    },
+    {
+      "label": "有斐閣新書 B",
+      "count": 2
+    },
+    {
+      "label": "有斐閣新書 A",
+      "count": 2
+    },
+    {
+      "label": "日本全国歌人新書",
+      "count": 2
+    },
+    {
+      "label": "幻冬舎ルネッサンス新書 = [Gentosha Renaissance Shinsho]",
+      "count": 2
+    },
+    {
+      "label": "日本歴史新書,",
+      "count": 2
+    },
+    {
+      "label": "成文堂新書",
+      "count": 2
+    },
+    {
+      "label": "宝島社新書 = [TAKARAJIMASHA SHINSHO]",
+      "count": 2
+    },
+    {
+      "label": "安全衛生新書,",
+      "count": 2
+    },
+    {
+      "label": "2ちゃんねる新書",
+      "count": 2
+    },
+    {
+      "label": "朱鷺新書",
+      "count": 2
+    },
+    {
+      "label": "サッカー小僧新書",
+      "count": 2
+    },
+    {
+      "label": "南々社新書",
+      "count": 2
+    },
+    {
+      "label": "MM新書",
+      "count": 2
+    },
+    {
+      "label": "カメラジャ－ナル新書",
+      "count": 2
+    },
+    {
+      "label": "水星舎新書",
+      "count": 2
+    },
+    {
+      "label": "京阪奈新書",
+      "count": 2
+    },
+    {
+      "label": "ざいさつアップル新書",
+      "count": 2
+    },
+    {
+      "label": "展望社新書",
+      "count": 2
+    },
+    {
+      "label": "トンボ新書",
+      "count": 2
+    },
+    {
+      "label": "東進ブックス. 東進新書",
+      "count": 2
+    },
+    {
+      "label": "漢検新書",
+      "count": 2
+    },
+    {
+      "label": "おおもと新書",
+      "count": 2
+    },
+    {
+      "label": "しなのき新書",
+      "count": 2
+    },
+    {
+      "label": "社内新書",
+      "count": 2
+    },
+    {
+      "label": "静岡学術出版理工学新書",
+      "count": 2
+    },
+    {
+      "label": "KS21みらい新書",
+      "count": 2
+    },
+    {
+      "label": "KSかや書房新書",
+      "count": 2
+    },
+    {
+      "label": "かたくら書店新書",
+      "count": 2
+    },
+    {
+      "label": "石油通信社新書",
+      "count": 2
+    },
+    {
+      "label": "ソトコト快体新書シリーズ",
+      "count": 2
+    },
+    {
+      "label": "最新医学新書",
+      "count": 2
+    },
+    {
+      "label": "公論新書",
+      "count": 2
+    },
+    {
+      "label": "朝日新書　：　１３９",
+      "count": 1
+    },
+    {
+      "label": "朝日新書９２４",
+      "count": 1
+    },
+    {
+      "label": "朝日新書９２８",
+      "count": 1
+    },
+    {
+      "label": "朝日新書９２５",
+      "count": 1
+    },
+    {
+      "label": "朝日新書９２３",
+      "count": 1
+    },
+    {
+      "label": "朝日新書９２１",
+      "count": 1
+    },
+    {
+      "label": "朝日新書９２７",
+      "count": 1
+    },
+    {
+      "label": "朝日新書９３０",
+      "count": 1
+    },
+    {
+      "label": "朝日新書９２６",
+      "count": 1
+    },
+    {
+      "label": "朝日新書９３５",
+      "count": 1
+    },
+    {
+      "label": "朝日新書９３４",
+      "count": 1
+    },
+    {
+      "label": "朝日新書９３１",
+      "count": 1
+    },
+    {
+      "label": "朝日新書９３２",
+      "count": 1
+    },
+    {
+      "label": "朝日新書９６４",
+      "count": 1
+    },
+    {
+      "label": "朝日新書９５５",
+      "count": 1
+    },
+    {
+      "label": "朝日新書９５６",
+      "count": 1
+    },
+    {
+      "label": "朝日新書９６２",
+      "count": 1
+    },
+    {
+      "label": "朝日新書９５８",
+      "count": 1
+    },
+    {
+      "label": "朝日新書９５９",
+      "count": 1
+    },
+    {
+      "label": "朝日新書９６３",
+      "count": 1
+    },
+    {
+      "label": "朝日新書９７０",
+      "count": 1
+    },
+    {
+      "label": "朝日新書９７１",
+      "count": 1
+    },
+    {
+      "label": "朝日新書９６９",
+      "count": 1
+    },
+    {
+      "label": "朝日新書１０２３",
+      "count": 1
+    },
+    {
+      "label": "朝日新書９７５",
+      "count": 1
+    },
+    {
+      "label": "朝日新書９７７",
+      "count": 1
+    },
+    {
+      "label": "朝日新書９７６",
+      "count": 1
+    },
+    {
+      "label": "朝日新書９８１",
+      "count": 1
+    },
+    {
+      "label": "朝日新書９９５",
+      "count": 1
+    },
+    {
+      "label": "朝日新書９９３",
+      "count": 1
+    },
+    {
+      "label": "朝日新書９９２",
+      "count": 1
+    },
+    {
+      "label": "朝日新書９９６",
+      "count": 1
+    },
+    {
+      "label": "朝日新書９９９",
+      "count": 1
+    },
+    {
+      "label": "朝日新書９９７",
+      "count": 1
+    },
+    {
+      "label": "朝日新書１００３",
+      "count": 1
+    },
+    {
+      "label": "朝日新書１０１７",
+      "count": 1
+    },
+    {
+      "label": "朝日新書１００７",
+      "count": 1
+    },
+    {
+      "label": "朝日新書１００９",
+      "count": 1
+    },
+    {
+      "label": "朝日新書１０１１",
+      "count": 1
+    },
+    {
+      "label": "朝日新書１０２１",
+      "count": 1
+    },
+    {
+      "label": "朝日新書１０１８",
+      "count": 1
+    },
+    {
+      "label": "朝日新書１０１５",
+      "count": 1
+    },
+    {
+      "label": "朝日新書１０２８",
+      "count": 1
+    },
+    {
+      "label": "朝日新書１０２７",
+      "count": 1
+    },
+    {
+      "label": "プラクティ新書",
+      "count": 1
+    },
+    {
+      "label": "歴史群像新書. Battle books : Men at war",
+      "count": 1
+    },
+    {
+      "label": "パーゴルフ新書",
+      "count": 1
+    },
+    {
+      "label": "講談社AKB48新書",
+      "count": 1
+    },
+    {
+      "label": "講談社MOOK. 講談社AKB48新書",
+      "count": 1
+    },
+    {
+      "label": "JB Press新書",
+      "count": 1
+    },
+    {
+      "label": "JB PRESS新書",
+      "count": 1
+    },
+    {
+      "label": "C&L MOOK. コミック解体新書",
+      "count": 1
+    },
+    {
+      "label": "BIG COMICS SPECIAL. コミック解体新書",
+      "count": 1
+    },
+    {
+      "label": "生き方名言新書",
+      "count": 1
+    },
+    {
+      "label": "東大新書,",
+      "count": 1
+    },
+    {
+      "label": "新書にんげん５",
+      "count": 1
+    },
+    {
+      "label": "シリーズ・現代幼児教育新書,",
+      "count": 1
+    },
+    {
+      "label": "秋田GOLF新書",
+      "count": 1
+    },
+    {
+      "label": "現代カメラ新書",
+      "count": 1
+    },
+    {
+      "label": "看護教養新書,",
+      "count": 1
+    },
+    {
+      "label": "ゴリラ新書",
+      "count": 1
+    },
+    {
+      "label": "岩崎調べる学習新書",
+      "count": 1
+    },
+    {
+      "label": "ゆにっと新書",
+      "count": 1
+    },
+    {
+      "label": "大阪教育図書文芸部-色変わり新書",
+      "count": 1
+    },
+    {
+      "label": "音楽新書,",
+      "count": 1
+    },
+    {
+      "label": "Kawade夢新書. NHK『ことばてれび』講座",
+      "count": 1
+    },
+    {
+      "label": "精選復刻紀伊國屋新書",
+      "count": 1
+    },
+    {
+      "label": "教育社新書　原本現代訳　：",
+      "count": 1
+    },
+    {
+      "label": "歴史新書〈日本史〉",
+      "count": 1
+    },
+    {
+      "label": "教育社歴史新書〈日本史〉＝",
+      "count": 1
+    },
+    {
+      "label": "教育社歴史新書<日本史>　：",
+      "count": 1
+    },
+    {
+      "label": "教育社歴史新書〈西洋史〉Ａ１４",
+      "count": 1
+    },
+    {
+      "label": "教育社歴史新書, 東洋史 B",
+      "count": 1
+    },
+    {
+      "label": "教育社歴史新書. 日本史",
+      "count": 1
+    },
+    {
+      "label": "教育社新書",
+      "count": 1
+    },
+    {
+      "label": "新育社新書. 産業界シリーズ",
+      "count": 1
+    },
+    {
+      "label": "教職課程新書,",
+      "count": 1
+    },
+    {
+      "label": "上智大学新書 = Sophia University Press",
+      "count": 1
+    },
+    {
+      "label": "国土新書",
+      "count": 1
+    },
+    {
+      "label": "幻冬舎ルネッサンス新書 し-11-",
+      "count": 1
+    },
+    {
+      "label": "三一新書　：",
+      "count": 1
+    },
+    {
+      "label": "三一新書. 100万人の焦点",
+      "count": 1
+    },
+    {
+      "label": "新教新書,",
+      "count": 1
+    },
+    {
+      "label": "新書館ウィングス文庫. Wings comics bunko. 獸木野生短篇集",
+      "count": 1
+    },
+    {
+      "label": "新書館ウィングス文庫. 獸木野生短篇集",
+      "count": 1
+    },
+    {
+      "label": "新書館ディアプラス文庫. だから僕は溜息をつく",
+      "count": 1
+    },
+    {
+      "label": "新書館ディアプラス文庫. 雨の結び目をほどいて",
+      "count": 1
+    },
+    {
+      "label": "新書館ディアプラス文庫 = DEAR+NOVEL BUNKO",
+      "count": 1
+    },
+    {
+      "label": "新書館ウィングス文庫. Wings novel. シャーロキアン・クロニクル",
+      "count": 1
+    },
+    {
+      "label": "新書館ウィングス文庫. 屋上の暇人ども",
+      "count": 1
+    },
+    {
+      "label": "新書館ウィングス文庫. リアルゲーム",
+      "count": 1
+    },
+    {
+      "label": "新書館ウィングス文庫. Wings novel. 月光界秘譚",
+      "count": 1
+    },
+    {
+      "label": "新書館ウィングス文庫. Wings novel. 金色の明日",
+      "count": 1
+    },
+    {
+      "label": "実日新書",
+      "count": 1
+    },
+    {
+      "label": "青春新書playbooks",
+      "count": 1
+    },
+    {
+      "label": "青春新書ＰＬＡＹ　ＢＯＯＫＳ",
+      "count": 1
+    },
+    {
+      "label": "創元医学新書, A-",
+      "count": 1
+    },
+    {
+      "label": "D新書. 山下聖美・ケンジ童話論シリーズ",
+      "count": 1
+    },
+    {
+      "label": "桜花新書",
+      "count": 1
+    },
+    {
+      "label": "[クリピュア新書]",
+      "count": 1
+    },
+    {
+      "label": "みらい新書",
+      "count": 1
+    },
+    {
+      "label": "創価教育新書",
+      "count": 1
+    },
+    {
+      "label": "週刊東洋経済eビジネス新書,",
+      "count": 1
+    },
+    {
+      "label": "週刊東洋経済eビジネス新書",
+      "count": 1
+    },
+    {
+      "label": "解体新書ライブラリー",
+      "count": 1
+    },
+    {
+      "label": "日文新書PLUS",
+      "count": 1
+    },
+    {
+      "label": "図解日文新書",
+      "count": 1
+    },
+    {
+      "label": "ＰＨＰビジネス新書 : １９４",
+      "count": 1
+    },
+    {
+      "label": "スポーツ新書,",
+      "count": 1
+    },
+    {
+      "label": "社会事業新書,",
+      "count": 1
+    },
+    {
+      "label": "有斐閣新書, A-7 . 民法入門||ミンポウ ニュウモン",
+      "count": 1
+    },
+    {
+      "label": "有斐閣新書, [A-15] . 注釈民法||チュウシャク ミンポウ",
+      "count": 1
+    },
+    {
+      "label": "有斐閣新書, [C-19]",
+      "count": 1
+    },
+    {
+      "label": "有斐閣新書, [D-10] . 経済学の古典||ケイザイガク ノ コテン",
+      "count": 1
+    },
+    {
+      "label": "有斐閣新書, [D-12]",
+      "count": 1
+    },
+    {
+      "label": "有斐閣新書, [A-30]",
+      "count": 1
+    },
+    {
+      "label": "有斐閣新書, D",
+      "count": 1
+    },
+    {
+      "label": "有斐閣新書, [C-22]",
+      "count": 1
+    },
+    {
+      "label": "有斐閣新書, A41 . 現代労働法||ゲンダイ ロウドウホウ",
+      "count": 1
+    },
+    {
+      "label": "有斐閣新書, [B-30] . 社会政策||シャカイ セイサク",
+      "count": 1
+    },
+    {
+      "label": "有斐閣新書, [D-27]",
+      "count": 1
+    },
+    {
+      "label": "有斐閣新書, [C-50]",
+      "count": 1
+    },
+    {
+      "label": "有斐閣新書, A-46 . 民法||ミンポウ",
+      "count": 1
+    },
+    {
+      "label": "有斐閣新書, A-47 . 民法||ミンポウ",
+      "count": 1
+    },
+    {
+      "label": "有斐閣新書, A-48 . 民法||ミンポウ",
+      "count": 1
+    },
+    {
+      "label": "有斐閣新書, A-49 . 民法||ミンポウ",
+      "count": 1
+    },
+    {
+      "label": "有斐閣新書, [C-54]",
+      "count": 1
+    },
+    {
+      "label": "有斐閣新書, D-34 . 古典入門||コテン ニュウモン",
+      "count": 1
+    },
+    {
+      "label": "有斐閣新書　Ａ　５１",
+      "count": 1
+    },
+    {
+      "label": "有斐閣新書　Ａ　５３",
+      "count": 1
+    },
+    {
+      "label": "有斐閣新書　Ａ　５４",
+      "count": 1
+    },
+    {
+      "label": "有斐閣新書　Ａ　５５",
+      "count": 1
+    },
+    {
+      "label": "有斐閣新書, [C-62] . 西洋史||セイヨウシ",
+      "count": 1
+    },
+    {
+      "label": "有斐閣新書, [C-63] . 西洋史||セイヨウシ",
+      "count": 1
+    },
+    {
+      "label": "有斐閣新書, [C-65] . 西洋史||セイヨウシ",
+      "count": 1
+    },
+    {
+      "label": "有斐閣新書, [C-66] . 西洋史||セイヨウシ",
+      "count": 1
+    },
+    {
+      "label": "有斐閣新書, [C-69] . 西洋史||セイヨウシ",
+      "count": 1
+    },
+    {
+      "label": "有斐閣新書, [C-70] . 西洋史||セイヨウシ",
+      "count": 1
+    },
+    {
+      "label": "有斐閣新書, [A-64]",
+      "count": 1
+    },
+    {
+      "label": "有斐閣新書, [B-43]",
+      "count": 1
+    },
+    {
+      "label": "有斐閣新書, C",
+      "count": 1
+    },
+    {
+      "label": "有斐閣新書, . 古典入門||コテン ニュウモン",
+      "count": 1
+    },
+    {
+      "label": "有斐閣新書, D-48 . 古典入門||コテン ニュウモン",
+      "count": 1
+    },
+    {
+      "label": "有斐閣新書, [A-65] . 行政法||ギョウセイホウ",
+      "count": 1
+    },
+    {
+      "label": "有斐閣新書, B-46 . 日本の企業家||ニホン ノ キギョウカ",
+      "count": 1
+    },
+    {
+      "label": "有斐閣新書, [D-51] . 古典入門||コテン ニュウモン",
+      "count": 1
+    },
+    {
+      "label": "有斐閣新書, [C-96]",
+      "count": 1
+    },
+    {
+      "label": "有斐閣新書. 古典入門",
+      "count": 1
+    },
+    {
+      "label": "有斐閣新書Ｄ５５古典入門",
+      "count": 1
+    },
+    {
+      "label": "有斐閣新書, [B61] . あきんど再発見||アキンド サイハッケン",
+      "count": 1
+    },
+    {
+      "label": "有斐閣新書, [B62] . あきんど再発見||アキンド サイハッケン",
+      "count": 1
+    },
+    {
+      "label": "有斐閣新書, [B-60]",
+      "count": 1
+    },
+    {
+      "label": "地方自治新書,",
+      "count": 1
+    },
+    {
+      "label": "敬文堂新書",
+      "count": 1
+    },
+    {
+      "label": "ゴルフダイジェスト新書classic",
+      "count": 1
+    },
+    {
+      "label": "サクラ新書. +カルチャー",
+      "count": 1
+    },
+    {
+      "label": "コスミック新書",
+      "count": 1
+    },
+    {
+      "label": "イースト新書Ｑ",
+      "count": 1
+    },
+    {
+      "label": "Junior新書",
+      "count": 1
+    },
+    {
+      "label": "白石新書. 平和と民主主義",
+      "count": 1
+    },
+    {
+      "label": "白石新書. 子どもと教育",
+      "count": 1
+    },
+    {
+      "label": "状況新書",
+      "count": 1
+    },
+    {
+      "label": "サイエンス・アイ新書 = Science・i",
+      "count": 1
+    },
+    {
+      "label": "安全衛生新書",
+      "count": 1
+    },
+    {
+      "label": "知の雑学新書",
+      "count": 1
+    },
+    {
+      "label": "学振新書,",
+      "count": 1
+    },
+    {
+      "label": "文華新書",
+      "count": 1
+    },
+    {
+      "label": "白揚社新書",
+      "count": 1
+    },
+    {
+      "label": "塙新書. 土屋文明記念文学館リブレ",
+      "count": 1
+    },
+    {
+      "label": "塙新書. 美夫君志リブレ",
+      "count": 1
+    },
+    {
+      "label": "塙新書. On demand books",
+      "count": 1
+    },
+    {
+      "label": "On Demand Books. 塙新書",
+      "count": 1
+    },
+    {
+      "label": "不昧堂新書,",
+      "count": 1
+    },
+    {
+      "label": "法藏新書",
+      "count": 1
+    },
+    {
+      "label": "真宗新書",
+      "count": 1
+    },
+    {
+      "label": "鹿砦社新書",
+      "count": 1
+    },
+    {
+      "label": "ワニブックス｜ＰＬＵＳ｜新書 : ４２９",
+      "count": 1
+    },
+    {
+      "label": "竹林館新書",
+      "count": 1
+    },
+    {
+      "label": "いしずえ新書",
+      "count": 1
+    },
+    {
+      "label": "隣人新書",
+      "count": 1
+    },
+    {
+      "label": "小池一夫のキャラクター新書",
+      "count": 1
+    },
+    {
+      "label": "新書y. 渡辺京二傑作選",
+      "count": 1
+    },
+    {
+      "label": "ジャーラム新書",
+      "count": 1
+    },
+    {
+      "label": "ヴィレッジブックス新書",
+      "count": 1
+    },
+    {
+      "label": "晋遊舎新書 = [SHINYUSHA SHINSHO]",
+      "count": 1
+    },
+    {
+      "label": "現代短歌社新書",
+      "count": 1
+    },
+    {
+      "label": "ラピュタ新書",
+      "count": 1
+    },
+    {
+      "label": "ぶい&ぶい新書",
+      "count": 1
+    },
+    {
+      "label": "傳書房新書",
+      "count": 1
+    },
+    {
+      "label": "さきがけ新書. シリーズ時代を語る",
+      "count": 1
+    },
+    {
+      "label": "経法大新書",
+      "count": 1
+    },
+    {
+      "label": "暁新書",
+      "count": 1
+    },
+    {
+      "label": "外為新書",
+      "count": 1
+    },
+    {
+      "label": "現代警察新書,",
+      "count": 1
+    },
+    {
+      "label": "バニラ新書",
+      "count": 1
+    },
+    {
+      "label": "上通新書",
+      "count": 1
+    },
+    {
+      "label": "全対訳日本古典新書,",
+      "count": 1
+    },
+    {
+      "label": "出版文化社新書. リーディング・カンパニーシリーズ",
+      "count": 1
+    },
+    {
+      "label": "ねっとテクノロジー解体新書",
+      "count": 1
+    },
+    {
+      "label": "ドン・ボスコ新書. 気合の入ったキリスト教入門",
+      "count": 1
+    },
+    {
+      "label": "ドン・ボスコ新書. 気合いの入ったキリスト教入門",
+      "count": 1
+    },
+    {
+      "label": "湘南新書,",
+      "count": 1
+    },
+    {
+      "label": "湘南新書",
+      "count": 1
+    },
+    {
+      "label": "刀水新書",
+      "count": 1
+    },
+    {
+      "label": "漢検新書, 012 . 知っ得ことば術シリーズ||シットク コトバジュツ シリーズ",
+      "count": 1
+    },
+    {
+      "label": "漢検新書, 013 . 知っ得ことば術シリーズ||シットク コトバジュツ シリーズ",
+      "count": 1
+    },
+    {
+      "label": "ラピュタbooksシリーズ. ラピュタ新書",
+      "count": 1
+    },
+    {
+      "label": "南方新書",
+      "count": 1
+    },
+    {
+      "label": "北溟文芸新書",
+      "count": 1
+    },
+    {
+      "label": "ひつじ市民新書",
+      "count": 1
+    },
+    {
+      "label": "文藝書房新書",
+      "count": 1
+    },
+    {
+      "label": "ARSVITA新書",
+      "count": 1
+    },
+    {
+      "label": "中国古典新書 : 新装版",
+      "count": 1
+    },
+    {
+      "label": "洋販新書. Basic English handbook",
+      "count": 1
+    },
+    {
+      "label": "新書y,",
+      "count": 1
+    },
+    {
+      "label": "LSC新書,",
+      "count": 1
+    },
+    {
+      "label": "テクノロジー解体新書",
+      "count": 1
+    },
+    {
+      "label": "駿河新書",
+      "count": 1
+    },
+    {
+      "label": "イデア競馬新書",
+      "count": 1
+    },
+    {
+      "label": "エヌピー新書",
+      "count": 1
+    },
+    {
+      "label": "!ndex新書",
+      "count": 1
+    },
+    {
+      "label": "四国観光文化新書",
+      "count": 1
+    },
+    {
+      "label": "アトラス観光文化新書",
+      "count": 1
+    },
+    {
+      "label": "学究社新書",
+      "count": 1
+    },
+    {
+      "label": "地引網新書",
+      "count": 1
+    },
+    {
+      "label": "サンガ新書,",
+      "count": 1
+    },
+    {
+      "label": "RBA新書",
+      "count": 1
+    },
+    {
+      "label": "繋新書",
+      "count": 1
+    },
+    {
+      "label": "大空教育新書",
+      "count": 1
+    },
+    {
+      "label": "Ism新書",
+      "count": 1
+    },
+    {
+      "label": "静岡学術出版メディア新書",
+      "count": 1
+    },
+    {
+      "label": "コシーナ新書",
+      "count": 1
+    },
+    {
+      "label": "あそ星文堂新書",
+      "count": 1
+    },
+    {
+      "label": "北東アジア新書",
+      "count": 1
+    },
+    {
+      "label": "桜美林大学北東アジア新書",
+      "count": 1
+    },
+    {
+      "label": "北東アジア新書. 人と歴史",
+      "count": 1
+    },
+    {
+      "label": "創出版新書",
+      "count": 1
+    },
+    {
+      "label": "シアテレ新書",
+      "count": 1
+    },
+    {
+      "label": "東京プレスクラブ新書",
+      "count": 1
+    },
+    {
+      "label": "しずおかの文化新書",
+      "count": 1
+    },
+    {
+      "label": "サンガ新書　：",
+      "count": 1
+    },
+    {
+      "label": "裸木新書",
+      "count": 1
+    },
+    {
+      "label": "FN新書",
+      "count": 1
+    },
+    {
+      "label": "表現社新書",
+      "count": 1
+    },
+    {
+      "label": "読書人新書",
+      "count": 1
+    },
+    {
+      "label": "モバード新書",
+      "count": 1
+    },
+    {
+      "label": "社会新書",
+      "count": 1
+    },
+    {
+      "label": "NM新書. 創業記シリーズ",
+      "count": 1
+    },
+    {
+      "label": "日学新書",
+      "count": 1
+    },
+    {
+      "label": "文工舎新書",
+      "count": 1
+    },
+    {
+      "label": "나남新書, 477 . 한국전쟁의 발발과 기원||한국 전쟁 의 발발 과 기원",
+      "count": 1
+    },
+    {
+      "label": "나남新書, 478 . 한국전쟁의 발발과 기원||한국 전쟁 의 발발 과 기원",
+      "count": 1
+    },
+    {
+      "label": "創批新書, 112-",
+      "count": 1
+    },
+    {
+      "label": "歴史学出版新書,",
+      "count": 1
+    },
+    {
+      "label": "本土新書",
+      "count": 1
+    },
+    {
+      "label": "島嶼新書,",
+      "count": 1
+    },
+    {
+      "label": "島嶼 新書",
+      "count": 1
+    }
+  ]
+}

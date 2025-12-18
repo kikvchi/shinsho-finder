@@ -98,6 +98,9 @@ async function main() {
     const shinshoDatabase = await loadJSON(SHINSHO_DB_PATH, []);
     await generateRSS(shinshoDatabase, RSS_OUTPUT_PATH);
 
+    // Step 9: Post any unposted books to X (handles cases where books were found but not posted)
+    await postNewBooksToX(shinshoDatabase);
+
     console.log('\n=== Shinsho Finder Completed Successfully ===');
   } catch (error) {
     console.error('\n❌ Error:', error.message);
