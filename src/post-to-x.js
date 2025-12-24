@@ -193,7 +193,9 @@ function formatTweet(book) {
 
 ${amazonUrl}
 
-${hashtags.join(' ')}`;
+${hashtags.join(' ')}
+
+新書の発売情報を（たぶん）日本最速で通知しています。フォローお願いします！→@shinshofinder`;
 }
 
 /**
