@@ -180,7 +180,7 @@ function formatTweet(book) {
   const authorTag = toHashtag(book.author);
 
   // Build hashtag string
-  const hashtags = ['#新書', '#新刊'];
+  const hashtags = ['#新書'];
   if (seriesTag) hashtags.push(`#${seriesTag}`);
   if (authorTag) hashtags.push(`#${authorTag}`);
 
