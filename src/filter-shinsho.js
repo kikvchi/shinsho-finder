@@ -155,20 +155,20 @@ export function filterShinsho(books) {
       // Skip if not a shinsho
       if (!isShinsho) continue;
 
-      // Get datekoukai and datemodified from hanmoto
-      const datekoukai = book?.hanmoto?.datekoukai || '';
-      const datemodified = book?.hanmoto?.datemodified || '';
+      // [EXPERIMENTAL] Date filtering disabled for testing
+      // const datekoukai = book?.hanmoto?.datekoukai || '';
+      // const datemodified = book?.hanmoto?.datemodified || '';
 
-      // Only include books that were added to openBD in the current month or later
-      if (!isCurrentMonthOrLater(datekoukai)) {
-        continue; // Skip books that were added before this month
-      }
+      // // Only include books that were added to openBD in the current month or later
+      // if (!isCurrentMonthOrLater(datekoukai)) {
+      //   continue; // Skip books that were added before this month
+      // }
 
-      // Only include books where datemodified is within 3 days of datekoukai
-      // This filters out books that were registered earlier but only appeared in the ISBN list later
-      if (!isRecentlyRegistered(datekoukai, datemodified)) {
-        continue; // Skip books that were only modified, not newly registered
-      }
+      // // Only include books where datemodified is within 3 days of datekoukai
+      // // This filters out books that were registered earlier but only appeared in the ISBN list later
+      // if (!isRecentlyRegistered(datekoukai, datemodified)) {
+      //   continue; // Skip books that were only modified, not newly registered
+      // }
 
       // Get publication date from summary (for display purposes only)
       const pubdate = book?.summary?.pubdate || '';
