@@ -69,16 +69,21 @@ openBDのONIXデータ構造から、シリーズ名（`Collection.TitleDetail.T
 // 例: "中公新書ラクレ ； 831" → "中公新書ラクレ" を含むのでマッチ
 ```
 
-### 新刊判定（datekoukaiベース）
+### 新刊判定（datekoukai + datemodifiedベース）
 
-openBDに登録された日付（`hanmoto.datekoukai`）が**スクリプト実行月以降**の書籍のみを「新刊」として抽出します。
+openBDに登録された日付（`hanmoto.datekoukai`）が**スクリプト実行月以降**、かつ`hanmoto.datemodified`が`datekoukai`から**3日以内**の書籍のみを「新刊」として抽出します。
 
 ```javascript
-// hanmoto.datekoukai（YYYY-MM-DD形式）が当月1日以降
+// 条件1: hanmoto.datekoukai（YYYY-MM-DD形式）が当月1日以降
 datekoukai >= 当月1日
+
+// 条件2: datemodifiedがdatekoukaiから3日以内
+(datemodified - datekoukai) <= 3日
 ```
 
-#### なぜdatekoukaiのみで判定するのか
+この2つ目の条件により、過去に登録されたがISBNリストに後から出現した書籍（modifyされただけの書籍）を除外できます。
+
+#### なぜdatekoukaiとdatemodifiedの両方で判定するのか
 
 openBD APIの実態として：
 

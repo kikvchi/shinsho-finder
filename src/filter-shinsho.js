@@ -21,6 +21,32 @@ function isCurrentMonthOrLater(datekoukai) {
 }
 
 /**
+ * Check if datemodified is within N days of datekoukai
+ * This filters out books that were registered earlier but only appeared in the ISBN list later
+ * @param {string} datekoukai - Date the book was published on openBD (YYYY-MM-DD format)
+ * @param {string} datemodified - Date the book was last modified (YYYY-MM-DD HH:MM:SS format)
+ * @param {number} maxDays - Maximum allowed difference in days (default: 3)
+ * @returns {boolean} True if the difference is within maxDays
+ */
+function isRecentlyRegistered(datekoukai, datemodified, maxDays = 3) {
+  if (!datekoukai || !datemodified) {
+    return false;
+  }
+
+  const koukai = new Date(datekoukai);
+  const modified = new Date(datemodified);
+
+  if (isNaN(koukai.getTime()) || isNaN(modified.getTime())) {
+    return false;
+  }
+
+  const diffMs = modified.getTime() - koukai.getTime();
+  const diffDays = diffMs / (1000 * 60 * 60 * 24);
+
+  return diffDays >= 0 && diffDays <= maxDays;
+}
+
+/**
  * Convert ISBN-13 to ISBN-10
  * @param {string} isbn13 - 13-digit ISBN
  * @returns {string} 10-digit ISBN or empty string if conversion fails
@@ -129,12 +155,19 @@ export function filterShinsho(books) {
       // Skip if not a shinsho
       if (!isShinsho) continue;
 
-      // Get datekoukai from hanmoto and check if it's from the current month or later
+      // Get datekoukai and datemodified from hanmoto
       const datekoukai = book?.hanmoto?.datekoukai || '';
+      const datemodified = book?.hanmoto?.datemodified || '';
 
       // Only include books that were added to openBD in the current month or later
       if (!isCurrentMonthOrLater(datekoukai)) {
         continue; // Skip books that were added before this month
+      }
+
+      // Only include books where datemodified is within 3 days of datekoukai
+      // This filters out books that were registered earlier but only appeared in the ISBN list later
+      if (!isRecentlyRegistered(datekoukai, datemodified)) {
+        continue; // Skip books that were only modified, not newly registered
       }
 
       // Get publication date from summary (for display purposes only)
