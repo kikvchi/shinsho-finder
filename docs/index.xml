@@ -4,9 +4,9 @@
         <description><![CDATA[openBD APIを使用した新書の新刊情報フィード]]></description>
         <link>https://analekt.github.io/shinsho-finder/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 21 Jan 2026 19:12:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Jan 2026 02:40:56 GMT</lastBuildDate>
         <atom:link href="https://analekt.github.io/shinsho-finder/index.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 21 Jan 2026 19:12:35 GMT</pubDate>
+        <pubDate>Thu, 22 Jan 2026 02:40:56 GMT</pubDate>
         <language><![CDATA[ja]]></language>
         <ttl>1440</ttl>
         <item>
