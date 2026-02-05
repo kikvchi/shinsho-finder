@@ -4,9 +4,9 @@
         <description><![CDATA[openBD APIを使用した新書の新刊情報フィード]]></description>
         <link>https://analekt.github.io/shinsho-finder/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 05 Feb 2026 11:18:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Feb 2026 19:18:04 GMT</lastBuildDate>
         <atom:link href="https://analekt.github.io/shinsho-finder/index.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 05 Feb 2026 11:18:56 GMT</pubDate>
+        <pubDate>Thu, 05 Feb 2026 19:18:04 GMT</pubDate>
         <language><![CDATA[ja]]></language>
         <ttl>1440</ttl>
         <item>
@@ -25,57 +25,6 @@
             <series>光文社新書</series>
             <author>ゴジキ（＠ｇｏｄｚｉｋｉ＿５５）</author>
             <publisher>光文社</publisher>
-        </item>
-        <item>
-            <title><![CDATA[孔子は、いかにして「神」になったのか]]></title>
-            <description><![CDATA[<p><strong>著者:</strong> 湯浅 邦弘</p>
-<p><strong>出版社:</strong> ＮＨＫ出版</p>
-<p><strong>シリーズ:</strong> NHK出版新書　756 ； 756</p>
-<p><strong>ISBN:</strong> 9784140887561</p>
-<p><strong>発売日:</strong> 発売日未定</p>
-<div style="clear: both;"></div>]]></description>
-            <link>https://www.amazon.co.jp/dp/4140887567/</link>
-            <guid isPermaLink="false">9784140887561</guid>
-            <pubDate>Thu, 05 Feb 2026 02:54:22 GMT</pubDate>
-            <isbn>9784140887561</isbn>
-            <isbn10>4140887567</isbn10>
-            <series>NHK出版新書　756 ； 756</series>
-            <author>湯浅 邦弘</author>
-            <publisher>ＮＨＫ出版</publisher>
-        </item>
-        <item>
-            <title><![CDATA[書店を守れ！]]></title>
-            <description><![CDATA[<p><strong>著者:</strong> 今村 翔吾</p>
-<p><strong>出版社:</strong> 祥伝社</p>
-<p><strong>シリーズ:</strong> 祥伝社新書</p>
-<p><strong>ISBN:</strong> 9784396117290</p>
-<p><strong>発売日:</strong> 発売日未定</p>
-<div style="clear: both;"></div>]]></description>
-            <link>https://www.amazon.co.jp/dp/4396117299/</link>
-            <guid isPermaLink="false">9784396117290</guid>
-            <pubDate>Thu, 05 Feb 2026 02:54:22 GMT</pubDate>
-            <isbn>9784396117290</isbn>
-            <isbn10>4396117299</isbn10>
-            <series>祥伝社新書</series>
-            <author>今村 翔吾</author>
-            <publisher>祥伝社</publisher>
-        </item>
-        <item>
-            <title><![CDATA[すぐに「できません」と言う人たち]]></title>
-            <description><![CDATA[<p><strong>著者:</strong> 榎本 博明</p>
-<p><strong>出版社:</strong> ＰＨＰ研究所</p>
-<p><strong>シリーズ:</strong> PHP新書</p>
-<p><strong>ISBN:</strong> 9784569860565</p>
-<p><strong>発売日:</strong> 発売日未定</p>
-<div style="clear: both;"></div>]]></description>
-            <link>https://www.amazon.co.jp/dp/4569860567/</link>
-            <guid isPermaLink="false">9784569860565</guid>
-            <pubDate>Thu, 05 Feb 2026 02:54:22 GMT</pubDate>
-            <isbn>9784569860565</isbn>
-            <isbn10>4569860567</isbn10>
-            <series>PHP新書</series>
-            <author>榎本 博明</author>
-            <publisher>ＰＨＰ研究所</publisher>
         </item>
         <item>
             <title><![CDATA[読むためのレッスン : 小説はこんなふうにできている]]></title>
