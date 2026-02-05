@@ -4,11 +4,28 @@
         <description><![CDATA[openBD APIを使用した新書の新刊情報フィード]]></description>
         <link>https://analekt.github.io/shinsho-finder/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 05 Feb 2026 02:54:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Feb 2026 11:18:56 GMT</lastBuildDate>
         <atom:link href="https://analekt.github.io/shinsho-finder/index.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 05 Feb 2026 02:54:22 GMT</pubDate>
+        <pubDate>Thu, 05 Feb 2026 11:18:56 GMT</pubDate>
         <language><![CDATA[ja]]></language>
         <ttl>1440</ttl>
+        <item>
+            <title><![CDATA[マネジメント術で読むプロ野球監督論]]></title>
+            <description><![CDATA[<p><strong>著者:</strong> ゴジキ（＠ｇｏｄｚｉｋｉ＿５５）</p>
+<p><strong>出版社:</strong> 光文社</p>
+<p><strong>シリーズ:</strong> 光文社新書</p>
+<p><strong>ISBN:</strong> 9784334109233</p>
+<p><strong>発売日:</strong> 発売日未定</p>
+<div style="clear: both;"></div>]]></description>
+            <link>https://www.amazon.co.jp/dp/4334109233/</link>
+            <guid isPermaLink="false">9784334109233</guid>
+            <pubDate>Thu, 05 Feb 2026 11:18:56 GMT</pubDate>
+            <isbn>9784334109233</isbn>
+            <isbn10>4334109233</isbn10>
+            <series>光文社新書</series>
+            <author>ゴジキ（＠ｇｏｄｚｉｋｉ＿５５）</author>
+            <publisher>光文社</publisher>
+        </item>
         <item>
             <title><![CDATA[孔子は、いかにして「神」になったのか]]></title>
             <description><![CDATA[<p><strong>著者:</strong> 湯浅 邦弘</p>
